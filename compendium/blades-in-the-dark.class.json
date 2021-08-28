@@ -12,9 +12,8 @@
       "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração"
 		},
 		"Ghost": {
-			"name": "Ghost",
-      "description" : "Um lutador perigoso e ameaçador",
-      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração"      
+			"name": "Fantasma",
+      "description" : "Um espírito desencarnado"
 		},
 		"Hound": {
 			"name": "Cão de Caça",
@@ -22,35 +21,37 @@
       "experience_clues": "<br>- Você lidou com um desafio usando rastreamento ou violência."      
 		},
 		"Hull": {
-			"name": "Hull",
-      "description" : "Um lutador perigoso e ameaçador",
-      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração"      
+			"name": "Casco",
+      "description" : "Um espírito animando uma carcaça de faiscaria"
 		},
 		"Leech": {
-			"name": "Leech",
-      "description" : "Um lutador perigoso e ameaçador",
-      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração"      
+			"name": "Doutor",
+      "description" : "um sabotador engenhoso e técnico",
+      "experience_clues": "<br>- Você lidou com um desafio usando perícia técnica ou confusão."      
 		},
 		"Lurk": {
-			"name": "Lurk",
-      "description" : "Um lutador perigoso e ameaçador",
-      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração"      
+			"name": "Furtivo",
+      "description" : "um gatuno e infiltrador silencioso.",
+      "experience_clues": "<br>- Você lidou com um desafio usando furtividade ou evasão."      
 		},
 		"Slide": {
-			"name": "Slide",
-      "description" : "Um lutador perigoso e ameaçador",
-      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração"      
+			"name": "Suave",
+      "description" : "um espião e manipulador sutil",
+      "experience_clues": "<br>- Você lidou com um desafio usando enganação ou influência."      
 		},
 		"Spider": {
 			"name": "Aranha",
       "description" : "Um gênio do crime",
-      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração"
+      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração."
 		},
 		"Vampire": {
-			"name": "Vampire"
+			"name": "Vampire",
+      "description" : "<br>- Espírito animando um corpo morto-vivo"
 		},
 		"Whisper": {
-			"name": "Whisper"
+			"name": "Sussurro",
+      "description" : "<br>- Um ocultista e canalizador de energias arcanas.",
+      "experience_clues": "<br>- Você lidou com um desafio usando conhecimento ou poder arcano."            
 		}
 	}
 }

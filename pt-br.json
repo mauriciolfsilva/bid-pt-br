@@ -198,8 +198,8 @@
   "BITD.Effect": "Efeito",
   "BITD.Modifier": "Modificador",
 
-  "BITD.Encumbered": "encumbered",
-  "BITD.OverMax": "over max",
+  "BITD.Encumbered": "sobrecarregado",
+  "BITD.OverMax": "Acima Máx.",
 
   "BITD.Drain": "Drain",
   "BITD.Wear": "Wear",

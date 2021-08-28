@@ -7,190 +7,314 @@
   
 	"entries": {
 		"(C) Battleborn": {
-			"name": "(C) Battleborn"
+			"name": "(R) Nascido para Lutar",
+      "description": "Você pode usar a sua armadura especial para reduzir o dano de um ataque em combate, ou para fazer um esforço extra durante uma luta.",
+      "class": "Retalhador"      
 		},
 		"(C) Bodyguard": {
-			"name": "(C) Bodyguard"
+			"name": "(R) Guarda-Costas",
+      "description": "Você recebe +1d na rolagem de resistência quando protege um companheiro de equipe. Você também recebe +1 efeito quando levanta informações para antecipar possíveis ameaças para o presente.",
+      "class": "Retalhador"  
 		},
 		"(C) Ghost Fighter": {
-			"name": "(C) Ghost Fighter"
+			"name": "(R) Guerreiro Fantasmagórico",
+      "description": "Você pode imbuir as suas mãos, armas brancas ou ferramentas com energias espirituais, recebendo potência em combates contra alvos sobrenaturais. Você pode agarrar espíritos para detê-los e capturá-los.",
+      "class": "Retalhador"        
 		},
 		"(C) Leader": {
-			"name": "(C) Leader"
+			"name": "(R) Líder",
+      "description": "Você é capaz de Comandar um parceiro em combate de forma extremamente efetiva, concedendo-o +1 efeito e 1 armadura. Ele também continua lutando mesmo se estiver arrasado (ou seja, não é removido do combate quando sofre um dano de nível 3).",
+      "class": "Retalhador"  
 		},
 		"(C) Mule": {
-			"name": "(C) Mule"
+			"name": "(R) Mula de Carga",
+      "description": "Os seus limites de carga são maiores. Leve: 5. Normal: 7. Pesado: 8.",
+      "class": "Retalhador"        
 		},
 		"(C) Not to be Trifled With": {
-			"name": "(C) Not to be Trifled With"
+			"name": "(R) Trate com Respeito",
+      "description": "Você pode usar esforço extra para realizar qualquer uma das seguintes proezas: executar façanha de força física quase sobrenatural — lutar corpo a corpo com uma gangue pequena em pé de igualdade.",
+      "class": "Retalhador"  
 		},
 		"(C) Savage": {
-			"name": "(C) Savage"
+			"name": "(R) Brutal",
+      "description": "As suas explosões de violência aterrorizam todos por perto. Você recebe +1d sempre que Comandar um alvo assustado.",
+      "class": "Retalhador"        
 		},
 		"(C) Veteran": {
-			"name": "(C) Veteran"
+			"name": "(R) Veterano",
+      "description": "Escolha uma habilidade especial de outra fonte.",
+      "class": "Retalhador"  
 		},
 		"(C) Vigorous": {
-			"name": "(C) Vigorous"
+			"name": "(R) Robusto",
+      "description": "Você se recupera rapidamente de ferimentos. Avance permanentemente uma parte do seu relógio de recuperação, e receba +1d em quaisquer rolagens de recuperação.",
+      "class": "Retalhador"  
 		},
 		"(H) Focused": {
-			"name": "(H) Focused"
+			"name": "(C) Concentrado",
+      "description": "Você pode usar a sua armadura especial para resistir a uma consequência de surpresa, ou dano mental (confusão, medo, perder alguém de vista), ou para fazer esforço extra durante um combate à distância, perseguição ou rastreamento.",
+      "class": "Cão de Caça"  
 		},
 		"(H) Ghost Hunter": {
-			"name": "(H) Ghost Hunter"
+			"name": "(C) Caçador de Fantasmas",
+      "description": "O seu animal de caça é imbuído de energia espiritual, recebendo potência para rastrear, seguir ou lutar contra alvos sobrenaturais. Ele também recebe uma habilidade arcana: forma fantasmagórica, elo mental, ou rápido como uma flecha. Você pode selecionar essa habilidade novamente para conceder uma habilidade arcana adicional ao seu animal de caça.",
+      "class": "Cão de Caça"  
 		},
 		"(H) Scout": {
-			"name": "(H) Scout"
+			"name": "(C) Batedor",
+      "description": "Você recebe +1 efeito sempre que levanta informações para descobrir a localização de um alvo e +1d em rolagens para evitar detecção quando camuflado, ou escondido em uma posição preparada.",
+      "class": "Cão de Caça"  
 		},
 		"(H) Sharpshooter": {
-			"name": "(H) Sharpshooter"
+			"name": "(C) Franco-atirador",
+      "description": "Você pode usar esforço extra para realizar qualquer uma das seguintes proezas: fazer um ataque à distância em um alcance além do normal, ou disparar uma saraivada de tiros como fogo de supressão.",
+      "class": "Cão de Caça"  
 		},
 		"(H) Survivor": {
-			"name": "(H) Survivor"
+			"name": "(C) Sobrevivente",
+      "description": "Seja através de terríveis experiências ou rituais ocultistas, você se tornou imune ao miasma venenoso das terras mortais e consegue se alimentar da fauna e flora estranhas que lá existem. Você também recebe +1 caixa de estresse.",
+      "class": "Cão de Caça"  
 		},
 		"(H) Tough as Nails": {
-			"name": "(H) Tough as Nails"
+			"name": "(C) Osso Duro de Roer",
+      "description": "Você diminui as penalidades de dano em um nível (embora o nível 4 ainda seja fatal).",
+      "class": "Cão de Caça"  
 		},
 		"(H) Vengeful": {
-			"name": "(H) Vengeful"
+			"name": "(C) Vingativo",
+      "description": "Você recebe um novo gatilho de xp: Você conseguiu vingança contra alguém que o prejudicou ou a algum ente querido. O seu bando também marca xp se o ajudou na vingança.",
+      "class": "Cão de Caça"  
 		},
 		"(H) Veteran": {
-			"name": "(H) Veteran"
+			"name": "(C) Veterano",
+      "description": "Escolha uma habilidade especial de outra fonte.",
+      "class": "Cão de Caça"  
 		},
 		"(Le) Alchemist": {
-			"name": "(Le) Alchemist"
+			"name": "(Doc) Alquimista",
+      "description": "Quando inventa ou cria algo com características alquímicas, você recebe +1 nível de resultado na rolagem (um resultado de 1 a 3 torna-se 4 ou 5, um 4 ou 5 torna-se 6, etc.). Além disso, você conhece uma fórmula especial.",
+      "class": "Doutor"  
 		},
 		"(Le) Analyst": {
-			"name": "(Le) Analyst"
+			"name": "(Doc) Analista",
+      "description": "Durante cada folga, você pode avançar duas vezes relógios de projetos de longo prazo envolvendo investigação ou aprendizado de um novo design ou fórmula.",
+      "class": "Doutor"  
 		},
 		"(Le) Artificer": {
-			"name": "(Le) Artificer"
+			"name": "(Doc) Artífice",
+      "description": "Quando inventa ou cria algo com características de faiscaria, você ganha +1 nível de resultado da sua rolagem (um resultado de 1 a 3 torna-se 4 ou 5, um 4 ou 5 torna-se 6, etc.). Além disso, você conhece um design especial.",
+      "class": "Doutor"  
 		},
 		"(Le) Fortitude": {
-			"name": "(Le) Fortitude"
+			"name": "(Doc) Fortitude",
+      "description": "Você pode usar a sua armadura especial para resistir a uma consequência de fadiga, fraqueza ou efeitos químicos, ou para fazer esforço extra ao empregar a perícia técnica ou alquimia.",
+      "class": "Doutor"  
 		},
 		"(Le) Ghost Ward": {
-			"name": "(Le) Ghost Ward"
+			"name": "(Doc) Proteção Fantasmagórica",
+      "description": "Você pode Detonar uma área usando substâncias arcanas, tornando-a atrativa ou repulsiva a entidades sobrenaturais (sua escolha).",
+      "class": "Doutor"  
 		},
 		"(Le) Physicker": {
-			"name": "(Le) Physicker"
+			"name": "(Doc) Médico",
+      "description": "Você pode Adulterar ossos, sangue e humores corporais para tratar ferimentos ou estabilizar moribundos, e Estudar enfermidades ou cadáveres. Todos os membros do seu bando (incluindo você) recebem +1d em rolagens de tratamento.",
+      "class": "Doutor"  
 		},
 		"(Le) Saboteur": {
-			"name": "(Le) Saboteur"
+			"name": "(Doc) Sabotador",
+      "description": "Você consegue Detonar de maneira muito mais silenciosa, escondendo bem o dano de olhares casuais.",
+      "class": "Doutor"  
 		},
 		"(Le) Venomous": {
-			"name": "(Le) Venomous"
+			"name": "(Doc) Venenoso",
+      "description": "Através de experimentos alquímicos ou exposição repetida, você se tornou imune a um veneno ou droga (escolha um do estoque da sua bandoleira). Você pode fazer um esforço extra para secretá-lo através da sua pele ou saliva, ou mesmo exalá-lo como um vapor.",
+      "class": "Doutor"  
 		},
 		"(Le) Veteran": {
-			"name": "(Le) Veteran"
+			"name": "(Doc) Veterano",
+      "description": "Escolha uma habilidade especial de outra fonte.",
+      "class": "Doutor"  
 		},
 		"(Lu) Ambush": {
-			"name": "(Lu) Ambush"
+			"name": "(Fu) Emboscada",
+      "description": "Recebe +1d na rolagem quando ataca de uma posição escondida.",
+      "class": "Furtivo"  
 		},
 		"(Lu) Daredevil": {
-			"name": "(Lu) Daredevil"
+			"name": "(Fu) Destemido",
+      "description": "Você pode escolher receber +1d quando fizer uma rolagem de ação desesperada. Se fizer isso, você também sofre -1d em qualquer rolagem de resistência em resposta.",
+      "class": "Furtivo"  
 		},
 		"(Lu) Expertise": {
-			"name": "(Lu) Expertise"
+			"name": "(Fu) Competência",
+      "description": "Escolha uma ação ao receber essa habilidade. Quando liderar ações de grupo que utilizem essa ação, você sofre no máximo 1 de estresse, independente da quantidade de rolagens ruins dos seus companheiros.",
+      "class": "Furtivo"  
 		},
 		"(Lu) Ghost Veil": {
-			"name": "(Lu) Ghost Veil"
+			"name": "(Fu) Véu Fantasma",
+      "description": "Você pode se deslocar parcialmente para o campo fantasmagórico, tornando-se sombrio e insubstancial por alguns momentos. Esse deslocamento causa 2 de estresse, mais 1 de estresse para cada benefício adicional a seguir: o deslocamento dura por alguns minutos ao invés de momentos – você se torna invisível ao invés de sombrio – você pode flutuar através do ar como um fantasma.",
+      "class": "Furtivo"  
 		},
 		"(Lu) Infiltrator": {
-			"name": "(Lu) Infiltrator"
+			"name": "(Fu) Infiltrador",
+      "description": "Você não é afetado por qualidade ou Categoria ao enfrentar medidas de segurança.",
+      "class": "Furtivo"  
 		},
 		"(Lu) Reflexes": {
-			"name": "(Lu) Reflexes"
+			"name": "(Fu) Reflexos",
+      "description": "Sempre que perguntarem quem age primeiro a resposta será sempre a mesma: você. (Dois personagens com Reflexos agem simultaneamente).",
+      "class": "Furtivo"  
 		},
 		"(Lu) Shadow": {
-			"name": "(Lu) Shadow"
+			"name": "(Fu) Sombra",
+      "description": "Você pode usar a sua armadura especial para resistir a uma consequência de detecção ou medidas de segurança, ou para fazer esforço extra em atos de atletismo ou furtividade.",
+      "class": "Furtivo"  
 		},
 		"(Lu) The Devil's Footsteps": {
-			"name": "(Lu) The Devil's Footsteps"
+			"name": "(Fu) Dança do Diabo",
+      "description": "Você pode fazer esforço extra para realizar qualquer uma das seguintes proezas: executar um feito de atletismo quase sobrenatural — esquivar dos seus inimigos fazendo com que ataquem uns aos outros.",
+      "class": "Furtivo"  
 		},
 		"(Lu) Veteran": {
-			"name": "(Lu) Veteran"
-		},
+			"name": "(Fu) Veterano",
+      "description": "Escolha uma habilidade especial de outra fonte.",
+      "class": "Furtivo"  
+		}, 
 		"(Sl) A Little Something on the Side": {
-			"name": "(Sl) A Little Something on the Side"
+			"name": "(Su) Negócios Informais",
+      "description": "Você adiciona +2 ao seu tesouro ao final de cada fase de folga.",
+      "class": "Suave"  
 		},
 		"(Sl) Cloak & Dagger": {
-			"name": "(Sl) Cloak & Dagger"
+			"name": "(Su) Manto & Adaga",
+      "description": "Você recebe +1d em rolagens para confundir ou evitar suspeita sempre que usa um disfarce ou outras formas de distração. Quando revela o seu disfarce, você pode usar a surpresa para ganhar a iniciativa na situação.",
+      "class": "Suave"  
 		},
 		"(Sl) Ghost Voice": {
-			"name": "(Sl) Ghost Voice"
+			"name": "(Su) Voz Fantasmagórica",
+      "description": "Você conhece o método secreto para interagir com fantasmas e demônios de forma similar a humanos, independentemente do quão ferozes ou animalescos eles pareçam. Você recebe potência quando se comunica com forças sobrenaturais.",
+      "class": "Suave"  
 		},
 		"(Sl) Like Looking into a Mirror": {
-			"name": "(Sl) Like Looking into a Mirror"
+			"name": "(Su) Olhar da Verdade",
+      "description": "Você sempre percebe quando mentem para você.",
+      "class": "Suave"  
 		},
 		"(Sl) Mesmerism": {
-			"name": "(Sl) Mesmerism"
+			"name": "(Su) Hipnotismo",
+      "description": "Quando Convence alguém, você pode fazer com que ela esqueça o ocorrido até que o encontre novamente.",
+      "class": "Suave"  
 		},
 		"(Sl) Rook's Gambit": {
-			"name": "(Sl) Rook's Gambit"
+			"name": "(Su) Roque do Rei",
+      "description": "Sofra 2 de estresse para rolar o seu melhor valor de ação mesmo quando estiver executando uma ação diferente. Descreva como você adapta a sua perícia a esse novo uso.",
+      "class": "Suave"  
 		},
 		"(Sl) Subterfuge": {
-			"name": "(Sl) Subterfuge"
+			"name": "(Su) Subterfúgio",
+      "description": "Você pode usar a sua armadura especial para resistir a uma consequência de suspeita ou persuasão, ou para fazer esforço extra em enganação ou subterfúgio.",
+      "class": "Suave"  
 		},
 		"(Sl) Trust in Me": {
-			"name": "(Sl) Trust in Me"
+			"name": "(Su) Confie em Mim",
+      "description": "Você recebe +1d em rolagens realizadas contra um alvo se possuir uma relação íntima com ele.",
+      "class": "Suave"  
 		},
 		"(Sl) Veteran": {
-			"name": "(Sl) Veteran"
+			"name": "(Su) Veterano",
+      "description": "Escolha uma habilidade especial de outra fonte.",
+      "class": "Suave"  
 		},
 		"(Sp) Calculating": {
-			"name": "(Sp) Calculating"
+			"name": "(Ar) Calculista",
+      "description": "O seu planejamento meticuloso permite que você ou um companheiro realize +1 atividade durante cada fase de folga.",
+      "class": "Aranha"  
 		},
 		"(Sp) Connected": {
-			"name": "(Sp) Connected"
+			"name": "(Ar) Bem Conectado",
+      "description": "Você recebe +1 nível de resultado em rolagens realizadas para adquirir recursos ou reduzir atenção durante a folga.",
+      "class": "Aranha"  
 		},
 		"(Sp) Foresight": {
-			"name": "(Sp) Foresight"
+			"name": "(Ar) Previsão",
+      "description": "Até duas vezes por golpe, você pode ajudar um companheiro sem sofrer estresse. Para fazer isso, descreva os preparativos que fez para lidar com essa situação.",
+      "class": "Aranha"  
 		},
 		"(Sp) Functioning Vice": {
-			"name": "(Sp) Functioning Vice"
+			"name": "(Ar) Vício Sob Controle",
+      "description": "Ao satisfazer o seu vício, você pode ajustar o valor do resultado da rolagem em 1 ou 2 (para cima ou para baixo). Um aliado que o acompanhe pode fazer o mesmo.",
+      "class": "Aranha"  
 		},
 		"(Sp) Ghost  Contract": {
-			"name": "(Sp) Ghost  Contract"
+			"name": "(Ar) Contrato Espiritual",
+      "description": "Ao escrever um contrato ou apertar as mãos para selar um acordo, tanto você quanto seu parceiro (sejam vocês humanos ou não) são marcados em juramento. Qualquer uma das partes que quebrar o contrato sofrerá um dano de nível 3: “Amaldiçoado”.",
+      "class": "Aranha"  
 		},
 		"(Sp) Jail Bird": {
-			"name": "(Sp) Jail Bird"
+			"name": "(Ar) Freguês da Prisão",
+      "description": "Quando você é preso, considere que o seu Nível de Procurado é reduzido em 1 e a Categoria aumentada em 1. Você também ganha +1 de status com uma facção com a qual coopere atrás das grades, além de qualquer resultado obtido com a rolagem de prisão.",
+      "class": "Aranha"  
 		},
 		"(Sp) Mastermind": {
-			"name": "(Sp) Mastermind"
+			"name": "(Ar) Visionário",
+      "description": "Você pode usar a sua armadura especial para proteger um companheiro ou para fazer esforço extra ao levantar informações ou progredir em um projeto de longo prazo.",
+      "class": "Aranha"  
 		},
 		"(Sp) Veteran": {
-			"name": "(Sp) Veteran"
+			"name": "(Ar) Veterano",
+      "description": "Escolha uma habilidade especial de outra fonte.",
+      "class": "Aranha"  
 		},
 		"(Sp) Weaving the Web": {
-			"name": "(Sp) Weaving the Web"
+			"name": "(Ar) Tecendo a Teia",
+      "description": "Você recebe +1d em rolagens de Socializar para levantar informações sobre o alvo de um golpe e +1d para a rolagem de abertura dessa operação.",
+      "class": "Aranha"  
 		},
 		"(W) Compel": {
-			"name": "(W) Compel"
+			"name": "(Su) Compelir",
+      "description": "Você pode se Sintonizar ao campo fantasmagórico para forçar um fantasma da região a aparecer e obedecer a uma ordem dada por você. Você não é afetado pelo terror sobrenatural do fantasma convocado ou compelido (mas os seus aliados possam ser).",
+      "class": "Sussurro"  
 		},
 		"(W) Ghost Mind": {
-			"name": "(W) Ghost Mind"
+			"name": "(Su) Mente Fantasmagórica",
+      "description": "Você sempre percebe a presença de entidades sobrenaturais ao seu redor e recebe +1d para levantar informações sobre assuntos sobrenaturais.",
+      "class": "Sussurro"  
 		},
 		"(W) Iron Will": {
-			"name": "(W) Iron Will"
+			"name": "(Su) Vontade de Ferro",
+      "description": "Você recebe +1d em rolagens de resistência realizadas com Convicção e é imune ao terror provocado pela presença de entidades sobrenaturais.",
+      "class": "Sussurro"  
 		},
 		"(W) Occultist": {
-			"name": "(W) Occultist"
+			"name": "(Su) Ocultista",
+      "description": "Você conhece os modos secretos para Socializar com poderes antigos, deuses esquecidos e demônios. Após socializar com um deles, você recebe +1d para Comandar cultistas que sejam devotos dessa entidade.",
+      "class": "Sussurro"  
 		},
 		"(W) Ritual": {
-			"name": "(W) Ritual"
+			"name": "(Su) Ritualista",
+      "description": "Você conhece os métodos arcanos usados na feitiçaria ritual. Você pode Estudar um ritual arcano (ou criar um novo) para invocar um efeito ou entidade sobrenatural. Além disso, você possui um ritual conhecido.",
+      "class": "Sussurro"  
 		},
 		"(W) Strange Methods": {
-			"name": "(W) Strange Methods"
+			"name": "(Su) Metodologia Estranha",
+      "description": "Quando inventa ou cria algo com características arcanas, você ganha +1 nível de resultado na rolagem. Além disso, você já conhece um esquema arcano.",
+      "class": "Sussurro"  
 		},
 		"(W) Tempest": {
-			"name": "(W) Tempest"
+			"name": "(Su) Tempestade",
+      "description": "Você pode usar esforço extra para realizar qualquer uma das seguintes proezas: disparar um relâmpago como uma arma, ou invocar uma tempestade nos seus arredores imediatos (chuva forte, ventos uivantes, névoa espessa, frio e neve, etc.).",
+      "class": "Sussurro"  
 		},
 		"(W) Veteran": {
-			"name": "(W) Veteran"
+			"name": "(Su) Veterano",
+      "description": "Escolha uma habilidade especial de outra fonte.",
+      "class": "Sussurro"  
 		},
 		"(W) Warded": {
-			"name": "(W) Warded"
+			"name": "(Su) Corpo Fechado",
+      "description": "Você pode usar a sua armadura especial para resistir a uma consequência sobrenatural ou para fazer um esforço extra ao lidar com forças arcanas.",
+      "class": "Sussurro"  
 		}
 	}
 }
