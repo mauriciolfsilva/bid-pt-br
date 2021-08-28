@@ -1,0 +1,191 @@
+{
+	"label": "Abilities",
+	"entries": {
+		"(C) Battleborn": {
+			"name": "(C) Battleborn"
+		},
+		"(C) Bodyguard": {
+			"name": "(C) Bodyguard"
+		},
+		"(C) Ghost Fighter": {
+			"name": "(C) Ghost Fighter"
+		},
+		"(C) Leader": {
+			"name": "(C) Leader"
+		},
+		"(C) Mule": {
+			"name": "(C) Mule"
+		},
+		"(C) Not to be Trifled With": {
+			"name": "(C) Not to be Trifled With"
+		},
+		"(C) Savage": {
+			"name": "(C) Savage"
+		},
+		"(C) Veteran": {
+			"name": "(C) Veteran"
+		},
+		"(C) Vigorous": {
+			"name": "(C) Vigorous"
+		},
+		"(H) Focused": {
+			"name": "(H) Focused"
+		},
+		"(H) Ghost Hunter": {
+			"name": "(H) Ghost Hunter"
+		},
+		"(H) Scout": {
+			"name": "(H) Scout"
+		},
+		"(H) Sharpshooter": {
+			"name": "(H) Sharpshooter"
+		},
+		"(H) Survivor": {
+			"name": "(H) Survivor"
+		},
+		"(H) Tough as Nails": {
+			"name": "(H) Tough as Nails"
+		},
+		"(H) Vengeful": {
+			"name": "(H) Vengeful"
+		},
+		"(H) Veteran": {
+			"name": "(H) Veteran"
+		},
+		"(Le) Alchemist": {
+			"name": "(Le) Alchemist"
+		},
+		"(Le) Analyst": {
+			"name": "(Le) Analyst"
+		},
+		"(Le) Artificer": {
+			"name": "(Le) Artificer"
+		},
+		"(Le) Fortitude": {
+			"name": "(Le) Fortitude"
+		},
+		"(Le) Ghost Ward": {
+			"name": "(Le) Ghost Ward"
+		},
+		"(Le) Physicker": {
+			"name": "(Le) Physicker"
+		},
+		"(Le) Saboteur": {
+			"name": "(Le) Saboteur"
+		},
+		"(Le) Venomous": {
+			"name": "(Le) Venomous"
+		},
+		"(Le) Veteran": {
+			"name": "(Le) Veteran"
+		},
+		"(Lu) Ambush": {
+			"name": "(Lu) Ambush"
+		},
+		"(Lu) Daredevil": {
+			"name": "(Lu) Daredevil"
+		},
+		"(Lu) Expertise": {
+			"name": "(Lu) Expertise"
+		},
+		"(Lu) Ghost Veil": {
+			"name": "(Lu) Ghost Veil"
+		},
+		"(Lu) Infiltrator": {
+			"name": "(Lu) Infiltrator"
+		},
+		"(Lu) Reflexes": {
+			"name": "(Lu) Reflexes"
+		},
+		"(Lu) Shadow": {
+			"name": "(Lu) Shadow"
+		},
+		"(Lu) The Devil's Footsteps": {
+			"name": "(Lu) The Devil's Footsteps"
+		},
+		"(Lu) Veteran": {
+			"name": "(Lu) Veteran"
+		},
+		"(Sl) A Little Something on the Side": {
+			"name": "(Sl) A Little Something on the Side"
+		},
+		"(Sl) Cloak & Dagger": {
+			"name": "(Sl) Cloak & Dagger"
+		},
+		"(Sl) Ghost Voice": {
+			"name": "(Sl) Ghost Voice"
+		},
+		"(Sl) Like Looking into a Mirror": {
+			"name": "(Sl) Like Looking into a Mirror"
+		},
+		"(Sl) Mesmerism": {
+			"name": "(Sl) Mesmerism"
+		},
+		"(Sl) Rook's Gambit": {
+			"name": "(Sl) Rook's Gambit"
+		},
+		"(Sl) Subterfuge": {
+			"name": "(Sl) Subterfuge"
+		},
+		"(Sl) Trust in Me": {
+			"name": "(Sl) Trust in Me"
+		},
+		"(Sl) Veteran": {
+			"name": "(Sl) Veteran"
+		},
+		"(Sp) Calculating": {
+			"name": "(Sp) Calculating"
+		},
+		"(Sp) Connected": {
+			"name": "(Sp) Connected"
+		},
+		"(Sp) Foresight": {
+			"name": "(Sp) Foresight"
+		},
+		"(Sp) Functioning Vice": {
+			"name": "(Sp) Functioning Vice"
+		},
+		"(Sp) Ghost  Contract": {
+			"name": "(Sp) Ghost  Contract"
+		},
+		"(Sp) Jail Bird": {
+			"name": "(Sp) Jail Bird"
+		},
+		"(Sp) Mastermind": {
+			"name": "(Sp) Mastermind"
+		},
+		"(Sp) Veteran": {
+			"name": "(Sp) Veteran"
+		},
+		"(Sp) Weaving the Web": {
+			"name": "(Sp) Weaving the Web"
+		},
+		"(W) Compel": {
+			"name": "(W) Compel"
+		},
+		"(W) Ghost Mind": {
+			"name": "(W) Ghost Mind"
+		},
+		"(W) Iron Will": {
+			"name": "(W) Iron Will"
+		},
+		"(W) Occultist": {
+			"name": "(W) Occultist"
+		},
+		"(W) Ritual": {
+			"name": "(W) Ritual"
+		},
+		"(W) Strange Methods": {
+			"name": "(W) Strange Methods"
+		},
+		"(W) Tempest": {
+			"name": "(W) Tempest"
+		},
+		"(W) Veteran": {
+			"name": "(W) Veteran"
+		},
+		"(W) Warded": {
+			"name": "(W) Warded"
+		}
+	}
+}

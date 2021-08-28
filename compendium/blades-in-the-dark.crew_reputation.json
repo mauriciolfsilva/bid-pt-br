@@ -1,0 +1,69 @@
+{
+	"label": "Crew Reputation",
+	"entries": {
+		"Alluring": {
+			"name": "Alluring",
+			"description": ""
+		},
+		"Ambitious": {
+			"name": "Ambitious",
+			"description": ""
+		},
+		"Brutal": {
+			"name": "Brutal",
+			"description": ""
+		},
+		"Cruel": {
+			"name": "Cruel",
+			"description": ""
+		},
+		"Daring": {
+			"name": "Daring",
+			"description": ""
+		},
+		"Ferocious": {
+			"name": "Ferocious",
+			"description": ""
+		},
+		"Honorable": {
+			"name": "Honorable",
+			"description": ""
+		},
+		"Monstrous": {
+			"name": "Monstrous",
+			"description": ""
+		},
+		"Professional": {
+			"name": "Professional",
+			"description": ""
+		},
+		"Radiant": {
+			"name": "Radiant",
+			"description": ""
+		},
+		"Savvy": {
+			"name": "Savvy",
+			"description": ""
+		},
+		"Serene": {
+			"name": "Serene",
+			"description": ""
+		},
+		"Sinister": {
+			"name": "Sinister",
+			"description": ""
+		},
+		"Strange": {
+			"name": "Strange",
+			"description": ""
+		},
+		"Subtle": {
+			"name": "Subtle",
+			"description": ""
+		},
+		"Transcendent": {
+			"name": "Transcendent",
+			"description": ""
+		}
+	}
+}

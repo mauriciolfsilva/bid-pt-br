@@ -1,0 +1,149 @@
+{
+	"label": "Crew Abilities",
+	"entries": {
+		"(A) Crow's Veil": {
+			"name": "(A) Crow's Veil"
+		},
+		"(A) Deadly": {
+			"name": "(A) Deadly"
+		},
+		"(A) Emberdeath": {
+			"name": "(A) Emberdeath"
+		},
+		"(A) No Traces": {
+			"name": "(A) No Traces"
+		},
+		"(A) Patron": {
+			"name": "(A) Patron"
+		},
+		"(A) Predators": {
+			"name": "(A) Predators"
+		},
+		"(A) Veteran": {
+			"name": "(A) Veteran"
+		},
+		"(A) Vipers": {
+			"name": "(A) Vipers"
+		},
+		"(Br) Blood Brothers": {
+			"name": "(Br) Blood Brothers"
+		},
+		"(Br) Dangerous": {
+			"name": "(Br) Dangerous"
+		},
+		"(Br) Door Kickers": {
+			"name": "(Br) Door Kickers"
+		},
+		"(Br) Fiends": {
+			"name": "(Br) Fiends"
+		},
+		"(Br) Forged In The Fire": {
+			"name": "(Br) Forged In The Fire"
+		},
+		"(Br) Patron": {
+			"name": "(Br) Patron"
+		},
+		"(Br) Veteran": {
+			"name": "(Br) Veteran"
+		},
+		"(Br) War Dogs": {
+			"name": "(Br) War Dogs"
+		},
+		"(C) Anointed": {
+			"name": "(C) Anointed"
+		},
+		"(C) Bound in Darkness": {
+			"name": "(C) Bound in Darkness"
+		},
+		"(C) Chosen": {
+			"name": "(C) Chosen"
+		},
+		"(C) Conviction": {
+			"name": "(C) Conviction"
+		},
+		"(C) Glory Incarnate": {
+			"name": "(C) Glory Incarnate"
+		},
+		"(C) Sealed in Blood": {
+			"name": "(C) Sealed in Blood"
+		},
+		"(C) Veteran": {
+			"name": "(C) Veteran"
+		},
+		"(C) Zealotry": {
+			"name": "(C) Zealotry"
+		},
+		"(H) Accord": {
+			"name": "(H) Accord"
+		},
+		"(H) Ghost Market": {
+			"name": "(H) Ghost Market"
+		},
+		"(H) High Society": {
+			"name": "(H) High Society"
+		},
+		"(H) Hooked": {
+			"name": "(H) Hooked"
+		},
+		"(H) Patron": {
+			"name": "(H) Patron"
+		},
+		"(H) Silver Tongues": {
+			"name": "(H) Silver Tongues"
+		},
+		"(H) The Good Stuff": {
+			"name": "(H) The Good Stuff"
+		},
+		"(H) Veteran": {
+			"name": "(H) Veteran"
+		},
+		"(Sh) Everyone Steals": {
+			"name": "(Sh) Everyone Steals"
+		},
+		"(Sh) Ghost Echoes": {
+			"name": "(Sh) Ghost Echoes"
+		},
+		"(Sh) Pack Rats": {
+			"name": "(Sh) Pack Rats"
+		},
+		"(Sh) Patron": {
+			"name": "(Sh) Patron"
+		},
+		"(Sh) Second Story": {
+			"name": "(Sh) Second Story"
+		},
+		"(Sh) Slippery": {
+			"name": "(Sh) Slippery"
+		},
+		"(Sh) Synchronized": {
+			"name": "(Sh) Synchronized"
+		},
+		"(Sh) Veteran": {
+			"name": "(Sh) Veteran"
+		},
+		"(Sm) All Hands": {
+			"name": "(Sm) All Hands"
+		},
+		"(Sm) Ghost Passage": {
+			"name": "(Sm) Ghost Passage"
+		},
+		"(Sm) Just Passing Through": {
+			"name": "(Sm) Just Passing Through"
+		},
+		"(Sm) Leverage": {
+			"name": "(Sm) Leverage"
+		},
+		"(Sm) Like Part of the Family": {
+			"name": "(Sm) Like Part of the Family"
+		},
+		"(Sm) Reavers": {
+			"name": "(Sm) Reavers"
+		},
+		"(Sm) Renegades": {
+			"name": "(Sm) Renegades"
+		},
+		"(Sm) Veteran": {
+			"name": "(Sm) Veteran"
+		}
+	}
+}

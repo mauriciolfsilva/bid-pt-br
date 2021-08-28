@@ -1,0 +1,179 @@
+{
+	"label": "Crew Upgrades",
+	"entries": {
+		"(A) Assassin Rigging": {
+			"name": "(A) Assassin Rigging"
+		},
+		"(A) Elite Skulks": {
+			"name": "(A) Elite Skulks"
+		},
+		"(A) Elite Thugs": {
+			"name": "(A) Elite Thugs"
+		},
+		"(A) Hardened": {
+			"name": "(A) Hardened"
+		},
+		"(A) Ironhook Contacts": {
+			"name": "(A) Ironhook Contacts"
+		},
+		"(B) Bravos Rigging": {
+			"name": "(B) Bravos Rigging"
+		},
+		"(B) Elite Rovers": {
+			"name": "(B) Elite Rovers"
+		},
+		"(B) Elite Thugs": {
+			"name": "(B) Elite Thugs"
+		},
+		"(B) Hardened": {
+			"name": "(B) Hardened"
+		},
+		"(B) Ironhook Contacts": {
+			"name": "(B) Ironhook Contacts"
+		},
+		"(C) Cult Rigging": {
+			"name": "(C) Cult Rigging"
+		},
+		"(C) Elite Adepts": {
+			"name": "(C) Elite Adepts"
+		},
+		"(C) Elite Thugs": {
+			"name": "(C) Elite Thugs"
+		},
+		"(C) Ordained": {
+			"name": "(C) Ordained"
+		},
+		"(C) Ritual Sanctum in Lair": {
+			"name": "(C) Ritual Sanctum in Lair"
+		},
+		"(H) Composed": {
+			"name": "(H) Composed"
+		},
+		"(H) Elite Rooks": {
+			"name": "(H) Elite Rooks"
+		},
+		"(H) Elite Thugs": {
+			"name": "(H) Elite Thugs"
+		},
+		"(H) Hawker Rigging": {
+			"name": "(H) Hawker Rigging"
+		},
+		"(H) Ironhook Contacts": {
+			"name": "(H) Ironhook Contacts"
+		},
+		"(Sh) Elite Rooks": {
+			"name": "(Sh) Elite Rooks"
+		},
+		"(Sh) Elite Skulks": {
+			"name": "(Sh) Elite Skulks"
+		},
+		"(Sh) Steady": {
+			"name": "(Sh) Steady"
+		},
+		"(Sh) Thief Rigging": {
+			"name": "(Sh) Thief Rigging"
+		},
+		"(Sh) Underground Maps and Passkeys": {
+			"name": "(Sh) Underground Maps and Passkeys"
+		},
+		"(Sm) Barge": {
+			"name": "(Sm) Barge"
+		},
+		"(Sm) Camouflage": {
+			"name": "(Sm) Camouflage"
+		},
+		"(Sm) Elite Rovers": {
+			"name": "(Sm) Elite Rovers"
+		},
+		"(Sm) Smuggler Rigging": {
+			"name": "(Sm) Smuggler Rigging"
+		},
+		"(Sm) Steady": {
+			"name": "(Sm) Steady"
+		},
+		"(Sm) Vehicle 1": {
+			"name": "(Sm) Vehicle 1"
+		},
+		"(Sm) Vehicle 2": {
+			"name": "(Sm) Vehicle 2"
+		},
+		"Boat House 1": {
+			"name": "Boat House 1"
+		},
+		"Boat House 2": {
+			"name": "Boat House 2"
+		},
+		"Carriage House 1": {
+			"name": "Carriage House 1"
+		},
+		"Carriage House 2": {
+			"name": "Carriage House 2"
+		},
+		"Cohort 1": {
+			"name": "Cohort 1"
+		},
+		"Cohort 2": {
+			"name": "Cohort 2"
+		},
+		"Cohort 3": {
+			"name": "Cohort 3"
+		},
+		"Cohort 4": {
+			"name": "Cohort 4"
+		},
+		"Hidden Lair": {
+			"name": "Hidden Lair"
+		},
+		"Mastery": {
+			"name": "Mastery"
+		},
+		"Quality: Arcane Implements": {
+			"name": "Quality: Arcane Implements"
+		},
+		"Quality: Documents": {
+			"name": "Quality: Documents"
+		},
+		"Quality: Gear": {
+			"name": "Quality: Gear"
+		},
+		"Quality: Subterfuge Supplies": {
+			"name": "Quality: Subterfuge Supplies"
+		},
+		"Quality: Tools": {
+			"name": "Quality: Tools"
+		},
+		"Quality: Weapons": {
+			"name": "Quality: Weapons"
+		},
+		"Quarters": {
+			"name": "Quarters"
+		},
+		"Secure Lair 1": {
+			"name": "Secure Lair 1"
+		},
+		"Secure Lair 2": {
+			"name": "Secure Lair 2"
+		},
+		"Training: Insight": {
+			"name": "Training: Insight"
+		},
+		"Training: Personal Exp": {
+			"name": "Training: Personal Exp"
+		},
+		"Training: Prowess": {
+			"name": "Training: Prowess"
+		},
+		"Training: Resolve": {
+			"name": "Training: Resolve"
+		},
+		"Vault 1": {
+			"name": "Vault 1"
+		},
+		"Vault 2": {
+			"name": "Vault 2"
+		},
+		"Workshop": {
+			"name": "Workshop"
+		}
+	}
+}

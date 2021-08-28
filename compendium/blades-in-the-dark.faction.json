@@ -1,0 +1,134 @@
+{
+	"label": "Factions",
+	"entries": {
+		"Bluecoats": {
+			"name": "Bluecoats"
+		},
+		"Cabbies": {
+			"name": "Cabbies"
+		},
+		"Citizenry": {
+			"name": "Citizenry"
+		},
+		"City Council": {
+			"name": "City Council"
+		},
+		"Cyphers": {
+			"name": "Cyphers"
+		},
+		"Deathlands Scavengers": {
+			"name": "Deathlands Scavengers"
+		},
+		"Dockers": {
+			"name": "Dockers"
+		},
+		"Gondoliers": {
+			"name": "Gondoliers"
+		},
+		"Imperial Military": {
+			"name": "Imperial Military"
+		},
+		"Ink Rakes": {
+			"name": "Ink Rakes"
+		},
+		"Inspectors": {
+			"name": "Inspectors"
+		},
+		"Ironhook Prison": {
+			"name": "Ironhook Prison"
+		},
+		"Leviathan Hunters": {
+			"name": "Leviathan Hunters"
+		},
+		"Lord Scurlock": {
+			"name": "Lord Scurlock"
+		},
+		"Ministry of Preservation": {
+			"name": "Ministry of Preservation"
+		},
+		"Rail Jacks": {
+			"name": "Rail Jacks"
+		},
+		"Sailors": {
+			"name": "Sailors"
+		},
+		"Skovlander Refugees": {
+			"name": "Skovlander Refugees"
+		},
+		"Sparkwrights": {
+			"name": "Sparkwrights"
+		},
+		"Spirit Wardens": {
+			"name": "Spirit Wardens"
+		},
+		"The Billhooks": {
+			"name": "The Billhooks"
+		},
+		"The Brigade": {
+			"name": "The Brigade"
+		},
+		"The Church of Ecstasy": {
+			"name": "The Church of Ecstasy"
+		},
+		"The Circle of Flame": {
+			"name": "The Circle of Flame"
+		},
+		"The Crows": {
+			"name": "The Crows"
+		},
+		"The Dimmer Sisters": {
+			"name": "The Dimmer Sisters"
+		},
+		"The Fog Hounds": {
+			"name": "The Fog Hounds"
+		},
+		"The Forgotten Gods": {
+			"name": "The Forgotten Gods"
+		},
+		"The Foundation": {
+			"name": "The Foundation"
+		},
+		"The Gray Cloaks": {
+			"name": "The Gray Cloaks"
+		},
+		"The Grinders": {
+			"name": "The Grinders"
+		},
+		"The Hive": {
+			"name": "The Hive"
+		},
+		"The Horde": {
+			"name": "The Horde"
+		},
+		"The Lampblacks": {
+			"name": "The Lampblacks"
+		},
+		"The Lost": {
+			"name": "The Lost"
+		},
+		"The Path of Echoes": {
+			"name": "The Path of Echoes"
+		},
+		"The Reconciled": {
+			"name": "The Reconciled"
+		},
+		"The Red Sashes": {
+			"name": "The Red Sashes"
+		},
+		"The Silver Nails": {
+			"name": "The Silver Nails"
+		},
+		"The Unseen": {
+			"name": "The Unseen"
+		},
+		"The Weeping Lady": {
+			"name": "The Weeping Lady"
+		},
+		"The Wraiths": {
+			"name": "The Wraiths"
+		},
+		"Ulf Ironborn": {
+			"name": "Ulf Ironborn"
+		}
+	}
+}

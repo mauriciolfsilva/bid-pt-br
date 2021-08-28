@@ -1,0 +1,23 @@
+{
+	"label": "Heritages",
+	"entries": {
+		"Akoros": {
+			"name": "Akoros"
+		},
+		"Iruvia": {
+			"name": "Iruvia"
+		},
+		"Severos": {
+			"name": "Severos"
+		},
+		"Skovlan": {
+			"name": "Skovlan"
+		},
+		"The Dagger Isles": {
+			"name": "The Dagger Isles"
+		},
+		"Tycheros": {
+			"name": "Tycheros"
+		}
+	}
+}

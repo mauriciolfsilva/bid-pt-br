@@ -1,0 +1,35 @@
+{
+	"label": "Classes",
+	"entries": {
+		"Cutter": {
+			"name": "Cutter"
+		},
+		"Ghost": {
+			"name": "Ghost"
+		},
+		"Hound": {
+			"name": "Hound"
+		},
+		"Hull": {
+			"name": "Hull"
+		},
+		"Leech": {
+			"name": "Leech"
+		},
+		"Lurk": {
+			"name": "Lurk"
+		},
+		"Slide": {
+			"name": "Slide"
+		},
+		"Spider": {
+			"name": "Spider"
+		},
+		"Vampire": {
+			"name": "Vampire"
+		},
+		"Whisper": {
+			"name": "Whisper"
+		}
+	}
+}

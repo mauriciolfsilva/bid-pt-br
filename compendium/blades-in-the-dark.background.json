@@ -1,0 +1,26 @@
+{
+	"label": "Backgrounds",
+	"entries": {
+		"Academic": {
+			"name": "Academic"
+		},
+		"Labor": {
+			"name": "Labor"
+		},
+		"Law": {
+			"name": "Law"
+		},
+		"Military": {
+			"name": "Military"
+		},
+		"Noble": {
+			"name": "Noble"
+		},
+		"Trade": {
+			"name": "Trade"
+		},
+		"Underworld": {
+			"name": "Underworld"
+		}
+	}
+}

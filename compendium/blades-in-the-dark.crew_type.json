@@ -1,0 +1,23 @@
+{
+	"label": "Crew Types",
+	"entries": {
+		"Assassins": {
+			"name": "Assassins"
+		},
+		"Bravos": {
+			"name": "Bravos"
+		},
+		"Cult": {
+			"name": "Cult"
+		},
+		"Hawkers": {
+			"name": "Hawkers"
+		},
+		"Shadows": {
+			"name": "Shadows"
+		},
+		"Smugglers": {
+			"name": "Smugglers"
+		}
+	}
+}

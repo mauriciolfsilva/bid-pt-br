@@ -12,8 +12,8 @@
   "download": "https://codeload.github.com/brunocalado/bid-pt-br/zip/main",
    "languages":[
       {
-         "lang":"pt-br",
-         "name":"Português (Brasil)",
+         "lang": "pt-BR",
+         "name": "Português (Brasil)",
          "path":"pt-br.json"
       }
    ],
@@ -22,7 +22,7 @@
          "name":"babele",
          "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
       }
-   ]
+   ],
   
   "systems": [
     "blades-in-the-dark"

@@ -1,0 +1,161 @@
+{
+	"label": "Items",
+	"entries": {
+		"(C) Fine hand weapon": {
+			"name": "(C) Fine hand weapon"
+		},
+		"(C) Fine heavy weapon": {
+			"name": "(C) Fine heavy weapon"
+		},
+		"(C) Manacles & chain": {
+			"name": "(C) Manacles & chain"
+		},
+		"(C) Rage essence vial": {
+			"name": "(C) Rage essence vial"
+		},
+		"(C) Scary weapon or tool": {
+			"name": "(C) Scary weapon or tool"
+		},
+		"(H) A trained hunting pet": {
+			"name": "(H) A trained hunting pet"
+		},
+		"(H) Electroplasmic ammunition": {
+			"name": "(H) Electroplasmic ammunition"
+		},
+		"(H) Fine long rifle": {
+			"name": "(H) Fine long rifle"
+		},
+		"(H) Fine pair of pistols": {
+			"name": "(H) Fine pair of pistols"
+		},
+		"(H) Spyglass": {
+			"name": "(H) Spyglass"
+		},
+		"(Le) Bandolier": {
+			"name": "(Le) Bandolier"
+		},
+		"(Le) Blowgun & darts, syringes": {
+			"name": "(Le) Blowgun & darts, syringes"
+		},
+		"(Le) Fine tinkering tools": {
+			"name": "(Le) Fine tinkering tools"
+		},
+		"(Le) Fine wrecking tools": {
+			"name": "(Le) Fine wrecking tools"
+		},
+		"(Le) Gadgets": {
+			"name": "(Le) Gadgets"
+		},
+		"(Lu) Dark-sight goggles": {
+			"name": "(Lu) Dark-sight goggles"
+		},
+		"(Lu) Fine lockpicks": {
+			"name": "(Lu) Fine lockpicks"
+		},
+		"(Lu) Fine shadow cloak": {
+			"name": "(Lu) Fine shadow cloak"
+		},
+		"(Lu) Light climbing gear": {
+			"name": "(Lu) Light climbing gear"
+		},
+		"(Lu) Silence potion vial": {
+			"name": "(Lu) Silence potion vial"
+		},
+		"(Sl) A cane-sword": {
+			"name": "(Sl) A cane-sword"
+		},
+		"(Sl) Fine clothes & jewelry": {
+			"name": "(Sl) Fine clothes & jewelry"
+		},
+		"(Sl) Fine disguise kit": {
+			"name": "(Sl) Fine disguise kit"
+		},
+		"(Sl) Fine loaded dice, trick cards": {
+			"name": "(Sl) Fine loaded dice, trick cards"
+		},
+		"(Sl) Trance powder": {
+			"name": "(Sl) Trance powder"
+		},
+		"(Sp) Blueprints": {
+			"name": "(Sp) Blueprints"
+		},
+		"(Sp) Concealed palm pistol": {
+			"name": "(Sp) Concealed palm pistol"
+		},
+		"(Sp) Fine bottle of whiskey": {
+			"name": "(Sp) Fine bottle of whiskey"
+		},
+		"(Sp) Fine cover identity": {
+			"name": "(Sp) Fine cover identity"
+		},
+		"(Sp) Vial of slumber essence": {
+			"name": "(Sp) Vial of slumber essence"
+		},
+		"(W) Demonbane charm": {
+			"name": "(W) Demonbane charm"
+		},
+		"(W) Fine lightning hook": {
+			"name": "(W) Fine lightning hook"
+		},
+		"(W) Fine spirit mask": {
+			"name": "(W) Fine spirit mask"
+		},
+		"(W) Ghost key": {
+			"name": "(W) Ghost key"
+		},
+		"(W) Spirit bottles (2)": {
+			"name": "(W) Spirit bottles (2)"
+		},
+		"+ Heavy": {
+			"name": "+ Heavy"
+		},
+		"A 2nd Pistol": {
+			"name": "A 2nd Pistol"
+		},
+		"A Blade or Two": {
+			"name": "A Blade or Two"
+		},
+		"A Large Weapon": {
+			"name": "A Large Weapon"
+		},
+		"A Pistol": {
+			"name": "A Pistol"
+		},
+		"An Unusual Weapon": {
+			"name": "An Unusual Weapon"
+		},
+		"Arcane Implements": {
+			"name": "Arcane Implements"
+		},
+		"Armor": {
+			"name": "Armor"
+		},
+		"Burglary Gear": {
+			"name": "Burglary Gear"
+		},
+		"Climbing Gear": {
+			"name": "Climbing Gear"
+		},
+		"Demolition Tools": {
+			"name": "Demolition Tools"
+		},
+		"Documents": {
+			"name": "Documents"
+		},
+		"Lantern": {
+			"name": "Lantern"
+		},
+		"Spiritbane Charm": {
+			"name": "Spiritbane Charm"
+		},
+		"Subterfuge Supplies": {
+			"name": "Subterfuge Supplies"
+		},
+		"Throwing Knives": {
+			"name": "Throwing Knives"
+		},
+		"Tinkering Tools": {
+			"name": "Tinkering Tools"
+		}
+	}
+}
