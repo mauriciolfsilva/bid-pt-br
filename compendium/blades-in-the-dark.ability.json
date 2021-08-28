@@ -1,5 +1,10 @@
 {
-	"label": "Abilities",
+	"label": "Habilidades Especiais",
+  "mapping": {
+    "description": "data.description",
+    "class":"data.class"
+  },
+  
 	"entries": {
 		"(C) Battleborn": {
 			"name": "(C) Battleborn"

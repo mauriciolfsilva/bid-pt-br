@@ -1,29 +1,50 @@
 {
-	"label": "Classes",
+	"label": "Cartilhas",
+  "mapping": {
+    "description": "data.description",
+    "experience_clues": "data.experience_clues"
+  },
+  
 	"entries": {
 		"Cutter": {
-			"name": "Cutter"
+      "name": "Retalhador",
+      "description" : "Um lutador perigoso e ameaçador",
+      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração"
 		},
 		"Ghost": {
-			"name": "Ghost"
+			"name": "Ghost",
+      "description" : "Um lutador perigoso e ameaçador",
+      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração"      
 		},
 		"Hound": {
-			"name": "Hound"
+			"name": "Cão de Caça",
+      "description" : "um atirador e perseguidor mortal",
+      "experience_clues": "<br>- Você lidou com um desafio usando rastreamento ou violência."      
 		},
 		"Hull": {
-			"name": "Hull"
+			"name": "Hull",
+      "description" : "Um lutador perigoso e ameaçador",
+      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração"      
 		},
 		"Leech": {
-			"name": "Leech"
+			"name": "Leech",
+      "description" : "Um lutador perigoso e ameaçador",
+      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração"      
 		},
 		"Lurk": {
-			"name": "Lurk"
+			"name": "Lurk",
+      "description" : "Um lutador perigoso e ameaçador",
+      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração"      
 		},
 		"Slide": {
-			"name": "Slide"
+			"name": "Slide",
+      "description" : "Um lutador perigoso e ameaçador",
+      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração"      
 		},
 		"Spider": {
-			"name": "Spider"
+			"name": "Aranha",
+      "description" : "Um gênio do crime",
+      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração"
 		},
 		"Vampire": {
 			"name": "Vampire"
@@ -33,3 +54,7 @@
 		}
 	}
 }
+
+
+
+

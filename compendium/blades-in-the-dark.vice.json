@@ -1,5 +1,5 @@
 {
-  "label": "Vices",
+  "label": "Vícios",
   "mapping": {
     "description": "data.description"
   },
@@ -23,22 +23,22 @@
 		{
 			"id": "Obligation",
 			"name": "Obrigações",
-			"description":"- Parents (origines) ou anciens collègues (antécédents).\n- Hutton, Réfugiés Skovlans / Révolutionnaires, Val-Roussi.\n- Le Cercle de Flammes, une société secrète."
+			"description":"Você é devotado a uma família, uma causa, uma organização, uma caridade, etc.<br><br>- Círculo das Chamas, sociedade secreta.<br>- Familiares (raízes) ou antigos companheiros de trabalho (histórico).<br>- Hutton, Refugiados/Revolucionários Skovlandeses, Baixada do Borralho."    
 		},
 		{
 			"id": "Pleasure",
 			"name": "Prazer",
-			"description":"- Singer, les bains, Patte-de-Corbeau.\n- Harvale Brogan, le Club Centuralia, Pierre-Claire.\n- Le Fumoir de Traven, Crête-Charbon.\n- Dunridge & Fils tissus raffinés et tailleur, Le Marché Nocturne.\n- Chef Roselle, restaurant la Prune Dorée, les Six Tours.\n- Maestro Helleren, le Théâtre de Flèchejardin, Blanche-Couronne.\n- Mardin Gull, la taverne du Seau Troué, Patte-de-Corbeau.\n- Pux Bolin, la taverne du Singe Harpiste, Le Marché Nocturne. \n- Helene, le casino du Cerf d’Argent, Soie- Rivage.\n- Lady Freyla, le bar du Tonneau de l’Empereur, Blanche-Courronne.\n- Avrick, vendeur de poudre, Tertre- Fendu.\n- Rolan Volaris, club social du Voile, Le Marché Nocturne.\n- Madame Tesslyn, bordel de la Lanterne Rouge, Soie-Rivage.  Le Fumoir de Traven, Crête-Charbon. \n- Eldrin Prichard, la barge des plaisirs du Cygne d’Argent, les canaux de Pierre- Claire.\n- Jewel, Bird, et Shine, la ruelle des Chatières, les Docks."
+			"description":"<b>Você insiste em ostentar riquezas e fazer dispendiosas demonstrações de opulência.</b><br><br>- Canora, casa de banho, Pé-de-Corvo.<br>- Chef Roselle, restaurante Ameixa de Ouro, Seis Torres.<br>- Harvale Brogan, o Clube Centurália, Diamantina.<br>-  Maestro Helleren, Teatro Jardim- Torres, Coroa-Alva.<br>- Montecinza e Filhos, alfaiate e tecidos finos, Empório Noturno.<br>- Traven, loja de fumo, Morro do Carvão.<br><br><b>Você procura o esquecimento abusando de drogas, bebendo até cair, lutando até apagar em ringues ilegais, etc.</b><br><br>-  Avrick, traficante de pó, Morro do Rio.<br>- Dama Freyla, bar Barril Imperial, Coroa-Alva.<br>- Eldrin Prichard, barca dos prazeres Garça Prateada, canais de Diamantina.<br>- Helene, Cassino do Cervo Prateado, Praia da Seda.<br>- Joia, Luzia, e Sabiá, Beco das Gatinhas, Docas.<br>- Madame Tesslyn, bordel Lanterna Vermelha, Praia da Seda.<br>- Mardin Gaivota, pub do Barril Furado, Pé-de-Corvo.<br>- Pux Bolin, taverna do Macaco Harpista, Empório Noturno.<br>- Rolan Volaris, clube social O Véu, Empório Noturno.<br>- Traven, loja de fumo, Morro do Carvão."
 		},
 		{
 			"id": "Stupor",
 			"name": "Estupor",
-			"description":"- Mardin Gull, la taverne du Seau Troué, Patte-de-Corbeau.\n- Pux Bolin, la taverne du Singe Harpiste, Le Marché Nocturne.\n- Helene, le casino du Cerf d’Argent, Soie- Rivage.\n- Lady Freyla, le bar du Tonneau de l’Empereur, Blanche-Courronne.\n- Avrick, vendeur de poudre, Tertre- Fendu.\n- Rolan Volaris, club social du Voile, Le Marché Nocturne.\n- Madame Tesslyn, bordel de la Lanterne Rouge, Soie-Rivage.  Le Fumoir de Traven, Crête-Charbon.\n- Eldrin Prichard, la barge des plaisirs du Cygne d’Argent, les canaux de Pierre- Claire.\n- Jewel, Bird, et Shine, la ruelle des Chatières, les Docks."
+			"description":"Você procura o esquecimento abusando de drogas, bebendo até cair, lutando até apagar em ringues ilegais, etc.<br><br>-  Avrick, traficante de pó, Morro do Rio.<br>- Dama Freyla, bar Barril Imperial, Coroa-Alva.<br>- Eldrin Prichard, barca dos prazeres Garça Prateada, canais de Diamantina.<br>- Helene, Cassino do Cervo Prateado, Praia da Seda.<br>- Joia, Luzia, e Sabiá, Beco das Gatinhas, Docas.<br>- Madame Tesslyn, bordel Lanterna Vermelha, Praia da Seda.<br>- Mardin Gaivota, pub do Barril Furado, Pé-de-Corvo.<br>- Pux Bolin, taverna do Macaco Harpista, Empório Noturno.<br>- Rolan Volaris, clube social O Véu, Empório Noturno.<br>- Traven, loja de fumo, Morro do Carvão."      
 		},
 		{
 			"id": "Weird",
 			"name": "Estranho",
-			"description":"- Le propriétaire encapuchonné de la taverne de la grotte, près des docks. Là où d’étranges passages mènent à des salles plus étranges encore.\n- Le Père Yoren, la Maison de la Pleureuse, les Six Tours.\n- “Salia,” un esprit des Réconciliés, qui passe d’un corps à l’autre à sa convenance.\n- La Soeur Thorn, du gang des charognards des terres mortes, la Station Gaddoc.\n- Ojak, un vendeur des toits Tycherosi, Soie-Rivage.\n- Aranna la Bénie, cultiste d’un Dieu Oublié, sa barge est amarrée au Marché Nocturne."
+			"description":"Você faz experiências com essências estranhas, socializa com espíritos desgarrados, executa rituais bizarros ou mantém tabus incomuns, etc.<br><br>- Arana, a Abençoada, cultista de um deus esquecido, barca atracada no Empório Noturno.<br>- O encapuzado dono de uma taverna quase inundada perto das docas. Passagens estranhas levam a cômodos ainda mais estranhos.<br>- Irmã Espinho, Legião da Morte, Estação Gaddoc.<br>- Ojak, vendedor tycherosi nos telhados da Praia da Seda.<br>- Padre Yoren, Casa da Dama Lacrimosa, Seis Torres.<br>- “Salia,” um espírito Reconciliado que se move de corpo em corpo."
 		}
 	]
 }

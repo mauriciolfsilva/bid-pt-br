@@ -1,26 +1,37 @@
 {
-	"label": "Backgrounds",
+	"label": "Histórico",
+  "mapping": {
+    "description": "data.description"
+  },
+  
 	"entries": {
 		"Academic": {
-			"name": "Academic"
+			"name": "Acadêmico",
+      "description": "Estudante ou professor da Academia Doskvol, sábio, filósofo, jornalista, etc."
 		},
 		"Labor": {
-			"name": "Labor"
+			"name": "Proletário",
+      "description":"Condutor de coche, estivador, marinheiro, servo, trabalhador de fábrica, Peão dos Trilhos, etc."
 		},
 		"Law": {
-			"name": "Law"
+			"name": "Legal",
+      "description":"Advogado, Casaca Azul ou inspetor (ou mesmo Patrulheiro Espiritual), carcereiro da prisão Anzolférreo, etc."
 		},
 		"Military": {
-			"name": "Military"
+			"name": "Militar",
+      "description":"Soldado Imperial ou Skovlandês, mercenário, operativo de inteligência, estrategista, instrutor de treinamento, etc."
 		},
 		"Noble": {
-			"name": "Noble"
+			"name": "Nobre",
+      "description":"Cortesão, diletante, fidalgo, herdeiro de uma casa arruinada, etc."
 		},
 		"Trade": {
-			"name": "Trade"
+			"name": "Mercantil",
+      "description":"Artesão, lojista, mercador, agente marítimo, etc."
 		},
 		"Underworld": {
-			"name": "Underworld"
+			"name": "Criminoso",
+      "description": "Criança de rua, membro de gangue, jovem vândalo ou outro tipo de marginalizado que cresceu nas ruas."
 		}
 	}
 }
