@@ -1,161 +1,252 @@
 {
-	"label": "Items",
+	"label": "Itens",
+	"mapping": {
+    "description": "data.description",
+    "class":"data.class"
+  },
+  
 	"entries": {
 		"(C) Fine hand weapon": {
-			"name": "(C) Fine hand weapon"
+			"name": "(R) Arma superior corpo a corpo",
+      "description": "Uma excelente arma corpo a corpo de uma mão a sua escolha. Esse é um exemplar excepcional de uma arma típica (como uma adaga perfeitamente balanceada) ou é uma arma exótica, como um sabre de duelo iruviano ou um porrete de guerra reforçado com metal?",
+      "class":"Retalhador"      
 		},
 		"(C) Fine heavy weapon": {
-			"name": "(C) Fine heavy weapon"
+			"name": "(R) Arma superior pesada",
+      "description": "Uma excelente arma corpo a corpo de duas mãos a sua escolha. Um martelo de batalha, espada larga, pique, machado de guerra, etc. Uma arma pesada tem um alcance maior e um golpe mais potente que uma arma normal. Isso pode conceder potência quando o poder ou alcance da arma for um fator determinante.",
+      "class":"Retalhador"      
 		},
 		"(C) Manacles & chain": {
-			"name": "(C) Manacles & chain"
+			"name": "(R) Algemas e correntes",
+      "description": "Um conjunto de algemas pesadas e correntes, ideais para restringir um prisioneiro. Talvez lembrança de uma estadia pouco voluntária com os Casacas Azuiss?",
+      "class":"Retalhador"      
 		},
 		"(C) Rage essence vial": {
-			"name": "(C) Rage essence vial"
+			"name": "(R) Frasco de essência da ira",
+      "description": "Uma única dose é suficiente para aumentar imensamente a força, resistência a dor e agressão irracional do usuário por vários minutos. O mestre modifica a sua posição ou efeito quando você luta sob efeito da essência da ira. Você também sofre duas consequências, “Não consegue diferenciar inimigos de aliados” e “Não consegue parar até quebrar todo mundo”, embora possa resistir a elas normalmente.",
+      "class":"Retalhador"      
 		},
 		"(C) Scary weapon or tool": {
-			"name": "(C) Scary weapon or tool"
+			"name": "(R) Arma ou ferramenta assustadora",
+      "description": "Uma arma de uma mão ou ferramenta particularmente intimidadora. Esse item fornece efeito ampliado para intimidar, e não para causar danos em combate.",
+      "class":"Retalhador"      
 		},
 		"(H) A trained hunting pet": {
-			"name": "(H) A trained hunting pet"
+			"name": "(C) A trained hunting pet",
+      "description": "O seu companheiro animal obedece aos seus comandos e antecipa as suas ações. Parceiro (Especialista: Caçador)." 
 		},
 		"(H) Electroplasmic ammunition": {
-			"name": "(H) Electroplasmic ammunition"
+			"name": "(C) Munição electroplasmática",
+      "description": "Uma bandoleira de munição electroplasmática, especialmente potente contra espíritos, mas pouco efetiva contra alvos físicos. A carga elétrica é capaz de atordoar uma pessoa, mas causa pouco dano real – são necessários vários disparos para incapacitar um humano. Essa munição causa reações curiosas no campo fantasmagórico – crie um relógio chamado “Investigação dos Patrulheiros Espirituais” e avance-o uma vez para cada operação em que usar essa munição.",
+      "class":"Cão de Caça" 
 		},
 		"(H) Fine long rifle": {
-			"name": "(H) Fine long rifle"
+			"name": "(C) Rifle longo superior",
+      "description": "Um excelente rifle de caça, mortal mesmo a longas distâncias, porém desajeitado em situações apertadas. Os rifles longos são considerados ilegais para os cidadãos de Doskvol, mas você possui documentação militar (real ou falsificada) para esse.",
+      "class":"Cão de Caça" 
 		},
 		"(H) Fine pair of pistols": {
-			"name": "(H) Fine pair of pistols"
+			"name": "(C) Par de pistolas superiores",
+      "description": "Um par de armas de fogo otimizadas para alta precisão, com canos duplos que possibilitam dois disparos antes de recarga. As suas pistolas foram feitas pelas Filhas de Kardera, Templeton & Slane, Forja Imperial ou outro armeiro? Como elas se comparam a uma pistola comum?",
+      "class":"Cão de Caça" 
 		},
 		"(H) Spyglass": {
-			"name": "(H) Spyglass"
+			"name": "(C) Luneta",
+      "description": "Um tubo de bronze com lentes que possibilitam a visão de longas distâncias. Ela é retrátil e pode ser afixada em um rifle.",
+      "class":"Cão de Caça" 
 		},
 		"(Le) Bandolier": {
-			"name": "(Le) Bandolier"
+			"name": "(Doc) Bandoleira",
+      "description": "Uma faixa que se estende pelo corpo, repleta de bolsos acolchoados capazes de conter três agentes alquímicos ou bombas de faiscaria. Você pode escolher qualquer composto alquímico ou bomba da lista à direita (ou uma das suas fórmulas) para usar durante a operação. Veja mais informações sobre compostos alquímicos e bombas na página 246. Você preenche automaticamente todas as suas bandoleiras durante a folga se tiver acesso a um fornecedor ou laboratório.",
+      "class":"Doutor" 
 		},
 		"(Le) Blowgun & darts, syringes": {
-			"name": "(Le) Blowgun & darts, syringes"
+			"name": "(Doc) Zarabatana e dardos, seringas",
+      "description": "Um pequeno tubo e dardos com compartimentos ocos que podem ser preenchidos com compostos alquímicos. Seringas vazias.",
+      "class":"Doutor" 
 		},
 		"(Le) Fine tinkering tools": {
-			"name": "(Le) Fine tinkering tools"
+			"name": "(Doc) Instrumentos superiores de adulteração",
+      "description": "Um excelente conjunto de instrumentos para trabalhos mecânicos detalhados e precisos, incluindo uma lupa de joalheiro e dispositivos de medição.",
+      "class":"Doutor" 
 		},
 		"(Le) Fine wrecking tools": {
-			"name": "(Le) Fine wrecking tools"
+			"name": "(Doc) Instrumentos superiores de detonação",
+      "description": "Um conjunto de ferramentas especializadas para sabotagem e destruição, incluindo uma broca pequena e poderosa, uma marreta e pregos de aço. Também contém um pé de cabra, uma bateria electroplasmática, fios e grampos. Frascos de ácido. Um tocha-faísca de corte e tanque de combustível.",
+      "class":"Doutor" 
 		},
 		"(Le) Gadgets": {
-			"name": "(Le) Gadgets"
+			"name": "(Doc) Engenhocas",
+      "description": "Você pode criar engenhocas durante a fase de folga usando ferramentas para adulterar materiais. Veja Engenhocas na página 247. Cada engenhoca usada durante uma operação conta como uma carga separada.",
+      "class":"Doutor" 
 		},
 		"(Lu) Dark-sight goggles": {
-			"name": "(Lu) Dark-sight goggles"
+			"name": "(Fu) Óculos de visão no escuro",
+      "description": "Um dispositivo arcano que permite que o seu usuário veja normalmente mesmo na escuridão total.",
+      "class":"Furtivo" 
 		},
 		"(Lu) Fine lockpicks": {
-			"name": "(Lu) Fine lockpicks"
+			"name": "(Fu) Ferramentas superiores de arrombamento",
+      "description": "Um excelente conjunto de ferramentas usadas para abrir, arrombar e inutilizar trancas e fechaduras.",
+      "class":"Furtivo" 
 		},
 		"(Lu) Fine shadow cloak": {
-			"name": "(Lu) Fine shadow cloak"
+			"name": "(Fu) Manto das sombras superior",
+      "description": "Um manto com capuz feito da rara seda das sombras iruviana, capaz de se camuflar nas sombras ao seu redor.",
+      "class":"Furtivo" 
 		},
 		"(Lu) Light climbing gear": {
-			"name": "(Lu) Light climbing gear"
+			"name": "(Fu) Ferramentas leves de escalada",
+      "description": "Um conjunto de equipamentos para escalada mais leve e menos volumoso.",
+      "class":"Furtivo" 
 		},
 		"(Lu) Silence potion vial": {
-			"name": "(Lu) Silence potion vial"
+			"name": "(Fu) Frasco de poção do silêncio",
+      "description": "Frasco contendo um líquido dourado que anula todos os sons a até dez passos de quem bebê-lo por vários instantes.",
+      "class":"Furtivo" 
 		},
 		"(Sl) A cane-sword": {
-			"name": "(Sl) A cane-sword"
+			"name": "(Su) Bengala-espada",
+      "description": "Uma lâmina esguia e a sua bainha, disfarçadas como uma bengala de aristocrata. Uma vistoria superficial não é capaz de notar a lâmina oculta.",
+      "class":"Suave" 
 		},
 		"(Sl) Fine clothes & jewelry": {
-			"name": "(Sl) Fine clothes & jewelry"
+			"name": "(Su) Roupas e joias superiores",
+      "description": "Uma vestimenta de uma qualidade tão excepcional que permite que você se passe por um nobre abastado. Carga 0.<br><br>Se você está carregando esse item como uma muda de roupa para trocar, ela conta como <b>carga 2</b>.",
+      "class":"Suave" 
 		},
 		"(Sl) Fine disguise kit": {
-			"name": "(Sl) Fine disguise kit"
+			"name": "(Su) Kit de disfarces superior",
+      "description": "Um conjunto de maquiagem teatral equipado com um vasto leque de acessórios e utensílios para mudar a aparência e enganar a vista. Ao usar esse kit, a sua qualidade superior pode aumentar o efeito de ações relacionadas a enganação e disfarces.",
+      "class":"Suave" 
 		},
 		"(Sl) Fine loaded dice, trick cards": {
-			"name": "(Sl) Fine loaded dice, trick cards"
+			"name": "(Su) Dados viciados e cartas marcadas superiores",
+      "description": "Acessórios de jogo sutilmente alterados para favorecer certos resultados. Ao usar esse conjunto, a sua qualidade superior pode aumentar o efeito de ações relacionadas a enganação.",
+      "class":"Suave" 
 		},
 		"(Sl) Trance powder": {
-			"name": "(Sl) Trance powder"
+			"name": "(Su) Talco do transe",
+      "description": "Uma dose da droga popular que induz um estado mental alterado. A vítima desse pó permanece consciente, mas em um estado mental calmo e sugestionável similar à hipnosee.",
+      "class":"Suave" 
 		},
 		"(Sp) Blueprints": {
-			"name": "(Sp) Blueprints"
+			"name": "(Ar) Plantas baixas",
+      "description": "Uma pasta cheia de desenhos arquitetônicos, mapas da cidade e plantas-baixas. Ao escolher esse item, você pode descrever que tipo de plantas e mapas carrega no momento.",
+      "class":"Aranha" 
 		},
 		"(Sp) Concealed palm pistol": {
-			"name": "(Sp) Concealed palm pistol"
+			"name": "(Ar) Pistola de palma (escondida)",
+      "description": "Uma pequena arma de fogo com munição de potência leve, que pode ser facilmente ocultada em uma manga ou casaco. Essa pistola possui um alcance extremamente limitado, por volta de um metro. O seu tamanho diminuto permite que você a oculte em si facilmente, tornando-a difícil de ser detectada mesmo após uma inspeção.",
+      "class":"Aranha" 
 		},
 		"(Sp) Fine bottle of whiskey": {
-			"name": "(Sp) Fine bottle of whiskey"
+			"name": "(Ar) Garrafa de uísque superior",
+      "description": "Uma destilação rara da sua coleção pessoal, potente tanto no teor alcóolico quanto na sua capacidade de impressionar.",
+      "class":"Aranha" 
 		},
 		"(Sp) Fine cover identity": {
-			"name": "(Sp) Fine cover identity"
+			"name": "(Ar) Identidade falsa superior",
+      "description": "Documentos falsificados, histórias e rumores espalhados, e relacionamentos falsos que permitem que você se passe por uma outra pessoa.",
+      "class":"Aranha" 
 		},
 		"(Sp) Vial of slumber essence": {
-			"name": "(Sp) Vial of slumber essence"
+			"name": "(Ar) Frasco de essência do sono",
+      "description": "Uma dose dessa essência é suficiente para fazer alguém dormir por uma hora. Esse sono não é um efeito sobrenatural, mas é profundo – a vítima só pode ser acordada com um bom esforço.",
+      "class":"Aranha" 
 		},
 		"(W) Demonbane charm": {
-			"name": "(W) Demonbane charm"
+			"name": "(Su) Amuleto de proteção contra demônios",
+      "description": "Uma quinquilharia arcana que demônios preferem evitar.",
+      "class":"Sussurro"       
 		},
 		"(W) Fine lightning hook": {
-			"name": "(W) Fine lightning hook"
+			"name": "(Su) Gancho elétrico superior",
+      "description": "Um laço de arame conectado a um capacitor electroplasmático, posicionado na ponta de uma haste longa. Pode ser usado para enlaçar um espírito e arrastá-lo para uma jarra espiritual. Esse gancho feito à mão pode ser dobrado e guardado em uma forma mais compacta, o que reduz a sua carga para 1 apesar de se tratar de uma ferramenta de duas mãos.",
+      "class":"Sussurro"       
 		},
 		"(W) Fine spirit mask": {
-			"name": "(W) Fine spirit mask"
+			"name": "(Su) Máscara espiritual superior",
+      "description": "Esse item arcano permite que um usuário treinado observe energias espirituais de forma detalhada e precisa. Ele também oferece alguma proteção contra a possessão de fantasmas. Cada máscara espiritual é um objeto único e pessoal. Como é a sua? Quais elementos a tornam estranha e perturbadora de se ver?",
+      "class":"Sussurro"       
 		},
 		"(W) Ghost key": {
-			"name": "(W) Ghost key"
+			"name": "(Su) Chave Fantasma",
+      "description": "Um instrumento arcano capaz de abrir portas fantasmagóricas. No campo fantasmagórico existem ecos da cidade inteira, em vários períodos de tempo. Ocasionalmente são encontradas portas para esse lugar perdido.",
+      "class":"Sussurro"       
 		},
 		"(W) Spirit bottles (2)": {
-			"name": "(W) Spirit bottles (2)"
+			"name": "(Su) Jarras Espirituais (2)",
+      "description": "Um instrumento arcano capaz de aprisionar um espírito. Cada uma tem a forma de um cilindro cristalino reforçado com metal do tamanho de um pão grande.",
+      "class":"Sussurro"       
 		},
 		"+ Heavy": {
-			"name": "+ Heavy"
+			"name": "+Pesada",
+      "description": "Adição de cota de malha, placas de metal e elmo metálico. [carga 3] A carga da armadura pesada é somada à armadura normal, para um total de carga 5."
 		},
 		"A 2nd Pistol": {
-			"name": "A 2nd Pistol"
+			"name": "A 2nd Pistol",
+      "description": ""
 		},
 		"A Blade or Two": {
-			"name": "A Blade or Two"
+			"name": "Uma Lâmina ou Duas",
+      "description": "Talvez você carregue uma simples faca de combate. Ou então duas espadas curvas. Possivelmente um sabre e punhal, ou mesmo um cutelo de açougueiro.<br><br>Você pode escolher um tipo de lâmina que represente as raízes do seu personagem:<br><br> As lâminas do Norte (Akoros e Skovlan) geralmente são largas, pesadas e de fio único.<br><br> Os lordes equestres de Severos preferem usar lanças em batalha. Em combates pessoais, porém, eles portam adagas características de dois gumes e lâmina bastante larga, frequentemente inscritas com as histórias de suas famílias.<br><br> Os corsários do Arquipélago das Adagas normalmente usam lâminas leves e finas, ideais para estocadas rápidas, como a rapiera e punhal.<br><br> Já em Iruvia, as lâminas curvas são mais usadas, sejam elas afiadas por dentro (como a foice de mão) ou por fora (como um sabre militar ou cimitarra)."
 		},
 		"A Large Weapon": {
-			"name": "A Large Weapon"
+			"name": "Uma Arma Grande",
+      "description": "Uma arma que deve ser portada em duas mãos. Machado de batalha, espada larga, martelo de guerra ou arma de haste. Um rifle de caça ou bacamarte. Um arco ou besta."
 		},
 		"A Pistol": {
-			"name": "A Pistol"
+			"name": "Uma Pistola",
+      "description": "Uma arma de fogo pesada, de tiro único e carregamento pela culatra. O seu disparo é devastador a até 20 passos, mas a sua recarga é lenta e demorada."
 		},
 		"An Unusual Weapon": {
-			"name": "An Unusual Weapon"
+			"name": "Uma Arma Incomum",
+      "description": "Uma ferramenta ou objeto curioso transformado em arma. Um chicote, mangual, machadinha, pá, corrente, leque com lâminas de navalha, botas reforçadas com aço."
 		},
 		"Arcane Implements": {
-			"name": "Arcane Implements"
+			"name": "Implementos Arcanos",
+      "description": "Um frasco de mercúrio. Um saquinho de sal negro. Uma âncora espiritual na forma de uma pequena rocha. Uma jarra espiritual. Um frasco de electroplasma, feito para ser arremessado e espalhar o seu conteúdo no ponto de impacto."
 		},
 		"Armor": {
-			"name": "Armor"
+			"name": "Armadura",
+      "description": "Uma túnica ou casaca de couro com luvas e botas reforçadas."
 		},
 		"Burglary Gear": {
-			"name": "Burglary Gear"
+			"name": "Ferramentas de Arrombamento",
+      "description": "Um conjunto de gazuas. Um pé de cabra pequeno. Frascos de óleo para silenciar dobradiças barulhentas. Arame e anzóis. Uma sacolinha de areia fina."
 		},
 		"Climbing Gear": {
-			"name": "Climbing Gear"
+			"name": "Ferramentas de Escalada",
+      "description": "Uma corda longa. Uma corda curta. Arpéus. Algibeira com pó de giz. Arnês de escalada com laços e aros de metal. Um conjunto de pítons de ferro e um martelo pequeno."
 		},
 		"Demolition Tools": {
-			"name": "Demolition Tools"
+			"name": "Instrumentos de Demolição",
+      "description": "Uma marreta e espigas de ferro. Broca pesada. Pé de cabra."
 		},
 		"Documents": {
-			"name": "Documents"
+			"name": "Documentos",
+      "description": "Uma coleção de exemplares finos sobre vários tópicos diferentes, incluindo um registro das famílias nobres, comandantes da Guarda Municipal e outros cidadãos importantes. Páginas em branco, um frasco de tinta e uma caneta tinteiro. Um conjunto de mapas importantes."
 		},
 		"Lantern": {
-			"name": "Lantern"
+			"name": "Lanterna",
+      "description": "Uma simples lanterna a óleo, uma chique lâmpada electroplasmática ou outra fonte de luz."
 		},
 		"Spiritbane Charm": {
-			"name": "Spiritbane Charm"
+			"name": "Amuleto de proteção contra espíritos",
+      "description": "Uma quinquilharia arcana que fantasmas preferem evitar."
 		},
 		"Subterfuge Supplies": {
-			"name": "Subterfuge Supplies"
+			"name": "Suprimentos de Subterfúgio",
+      "description": "Um kit de maquiagem teatral. Vários documentos em branco, prontos para serem falsificados. Joias falsas. Um manto duplo reversível e chapéu diferenciado. Distintivo de autoridade falsificado."
 		},
 		"Throwing Knives": {
-			"name": "Throwing Knives"
+			"name": "Facas de Arremesso",
+      "description": "Seis lâminas pequenas e leves."
 		},
 		"Tinkering Tools": {
-			"name": "Tinkering Tools"
+			"name": "Instrumentos de Adulteração",
+      "description": "Um acervo de instrumentos para trabalhos mecânicos precisos: alicates, chave de fenda, lupa de joalheiro, martelinho, pinças, etc."
 		}
 	}
 }

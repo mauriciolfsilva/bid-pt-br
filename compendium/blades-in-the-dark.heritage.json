@@ -1,23 +1,33 @@
 {
-	"label": "Heritages",
+	"label": "Raízes",
+	"mapping": {
+    "description": "data.description"
+  },
+  
 	"entries": {
 		"Akoros": {
-			"name": "Akoros"
+			"name": "Akoros",
+      "description": "Akoros é a maior e mais industrializada região do Imperium, e nela ficam tanto a capital quanto a própria cidade de Duskwall. Os akorosianos são conhecidos como um grande e diverso aglomerado de culturas que se desenvolveram em certa proximidade por séculos, de forma similar à Europa."
 		},
 		"Iruvia": {
-			"name": "Iruvia"
+			"name": "Iruvia",
+      "description": "Se quiser pertencer a uma cultura considerada “estrangeira” pelos locais, você pode vir de iruvia, um rico e poderoso reino no deserto ao sul distante. Essa é uma outra região de culturas diversas, similares à antiga Pérsia, Egito e Índia."
 		},
 		"Severos": {
-			"name": "Severos"
+			"name": "Severos",
+      "description": "Se quiser ser de um lugar considerado “selvagem” pelo resto do império, você pode vir de severos. Descontando alguns povoados do Imperium, a maior parte dos severosi pertence a tribos equestres nômades espalhadas pelas terras mortais. As ruínas de antigas fortalezas arcanas ainda são capazes de repelir espíritos, oferecendo abrigos seguros durante suas migrações."
 		},
 		"Skovlan": {
-			"name": "Skovlan"
+			"name": "Skovlan",
+      "description": "Se quiser pertencer a um povo marginalizado, você pode vir de skovlan, o reino insular próximo de Doskvol. Esse reino caiu recentemente sob o domínio Imperial, durante a Guerra da União que durou 36 anos e terminou apenas há poucos anos. Muitos skovlandeses perderam seus lares e empregos para a destruição da guerra e vieram para Doskvol como refugiados, procurando novas oportunidades."
 		},
 		"The Dagger Isles": {
-			"name": "The Dagger Isles"
+			"name": "Arquipélago das Adagas",
+      "description": "Se quiser ser um andarilho, você pode vir do Arquipélago das Adagas. Os seus habitantes geralmente crescem em navios e viajam bastante antes de se assentarem. Eles são conhecidos como corsários e mercadores que vivem sem barreiras relampejantes, lidando com espíritos de outras formas."
 		},
 		"Tycheros": {
-			"name": "Tycheros"
+			"name": "Tycheros",
+      "description": "Se quiser ser realmente estranho, você pode vir de tycheros. Esse é um lugar quase mítico, a uma grande distância ao norte pelo Mar do Vácuo. Os rumores dizem que o povo de lá tem uma parte demônio. Ao escolher raízes tycherosi, crie também um traço revelador demoníaco (como olhos negros de tubarão, penas no lugar dos cabelos, etc.) que marque o seu personagem."
 		}
 	}
 }
