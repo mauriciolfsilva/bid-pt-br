@@ -1,35 +1,60 @@
 {
-	"label": "Crew Upgrades",
+	"label": "Melhorias de Bando",
+  "mapping":{
+      "description":"data.description",
+      "class":"data.class"
+   },
+   
 	"entries": {
 		"(A) Assassin Rigging": {
-			"name": "(A) Assassin Rigging"
+			"name": "(A) Aparelhagem de Assassino",
+      "description":"Você pode levar 2 de carga adicional de armas ou ferramentas. Por exemplo: você pode carregar uma pistola (uma arma) e ferramentas de arrombamento (ferramentas) e ainda ficar com carga 0.",
+      "class":"Assassinos"
 		},
 		"(A) Elite Skulks": {
-			"name": "(A) Elite Skulks"
+			"name": "(A) Sorrateiros de Elite",
+      "description":"Todos os parceiros com o tipo Sorrateiro recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
+      "class":"Assassinos"
 		},
 		"(A) Elite Thugs": {
-			"name": "(A) Elite Thugs"
+			"name": "(A) Capangas de Elite",
+      "description":"Todos os parceiros com o tipo Capangas recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
+      "class":"Assassinos"
 		},
 		"(A) Hardened": {
-			"name": "(A) Hardened"
+			"name": "(A) Calejados",
+      "description":"Cada PJ recebe +1 caixa de trauma. Esse benefício custa três melhorias em vez de um. Se for do interesse dos jogadores, essa melhoria pode trazer de volta ao jogo um PJ que tenha sofrido 4 traumas.",
+      "class":"Assassinos"
 		},
 		"(A) Ironhook Contacts": {
-			"name": "(A) Ironhook Contacts"
+			"name": "(A) Contatos Atrás das Grades",
+      "description":"A sua Categoria aumenta em 1 dentro da prisão. Isso vale para qualquer circunstância que use a sua Categoria dentro da prisão, incluindo a rolagem de prisão.",
+      "class":"Assassinos"
 		},
 		"(B) Bravos Rigging": {
-			"name": "(B) Bravos Rigging"
+			"name": "(B) Aparelhagem de Bravos",
+      "description":"Você pode levar 2 de carga adicional de armas ou armadura. Por exemplo: você pode carregar uma pistola e espada, ou vestir uma armadura normal, e ainda ficar com carga 0.",
+      "class":"Bravos"
 		},
 		"(B) Elite Rovers": {
-			"name": "(B) Elite Rovers"
+			"name": "(B) Andarilhos de Elite",
+      "description":"Todos os parceiros com o tipo Andarilho recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
+      "class":"Bravos"
 		},
 		"(B) Elite Thugs": {
-			"name": "(B) Elite Thugs"
+			"name": "(B) Capangas de Elite",
+      "description":"Todos os parceiros com o tipo Capangas recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
+      "class":"Bravos"
 		},
 		"(B) Hardened": {
-			"name": "(B) Hardened"
+			"name": "(B) Calejados",
+      "description":"Cada PJ recebe +1 caixa de trauma. Esse benefício custa três melhorias em vez de uma. Se for do interesse dos jogadores, essa melhoria pode trazer de volta ao jogo um PJ que tenha sofrido 4 traumas.",
+      "class":"Bravos"
 		},
 		"(B) Ironhook Contacts": {
-			"name": "(B) Ironhook Contacts"
+			"name": "(B) Ironhook Contacts",
+      "description":"",
+      "class":"Bravos"
 		},
 		"(C) Cult Rigging": {
 			"name": "(C) Cult Rigging"

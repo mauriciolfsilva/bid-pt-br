@@ -1,134 +1,180 @@
 {
-	"label": "Factions",
-	"entries": {
-		"Bluecoats": {
-			"name": "Bluecoats"
-		},
-		"Cabbies": {
-			"name": "Cabbies"
-		},
-		"Citizenry": {
-			"name": "Citizenry"
-		},
-		"City Council": {
-			"name": "City Council"
-		},
-		"Cyphers": {
-			"name": "Cyphers"
-		},
-		"Deathlands Scavengers": {
-			"name": "Deathlands Scavengers"
-		},
-		"Dockers": {
-			"name": "Dockers"
-		},
-		"Gondoliers": {
-			"name": "Gondoliers"
-		},
-		"Imperial Military": {
-			"name": "Imperial Military"
-		},
-		"Ink Rakes": {
-			"name": "Ink Rakes"
-		},
-		"Inspectors": {
-			"name": "Inspectors"
-		},
-		"Ironhook Prison": {
-			"name": "Ironhook Prison"
-		},
-		"Leviathan Hunters": {
-			"name": "Leviathan Hunters"
-		},
-		"Lord Scurlock": {
-			"name": "Lord Scurlock"
-		},
-		"Ministry of Preservation": {
-			"name": "Ministry of Preservation"
-		},
-		"Rail Jacks": {
-			"name": "Rail Jacks"
-		},
-		"Sailors": {
-			"name": "Sailors"
-		},
-		"Skovlander Refugees": {
-			"name": "Skovlander Refugees"
-		},
-		"Sparkwrights": {
-			"name": "Sparkwrights"
-		},
-		"Spirit Wardens": {
-			"name": "Spirit Wardens"
-		},
-		"The Billhooks": {
-			"name": "The Billhooks"
-		},
-		"The Brigade": {
-			"name": "The Brigade"
-		},
-		"The Church of Ecstasy": {
-			"name": "The Church of Ecstasy"
-		},
-		"The Circle of Flame": {
-			"name": "The Circle of Flame"
-		},
-		"The Crows": {
-			"name": "The Crows"
-		},
-		"The Dimmer Sisters": {
-			"name": "The Dimmer Sisters"
-		},
-		"The Fog Hounds": {
-			"name": "The Fog Hounds"
-		},
-		"The Forgotten Gods": {
-			"name": "The Forgotten Gods"
-		},
-		"The Foundation": {
-			"name": "The Foundation"
-		},
-		"The Gray Cloaks": {
-			"name": "The Gray Cloaks"
-		},
-		"The Grinders": {
-			"name": "The Grinders"
-		},
-		"The Hive": {
-			"name": "The Hive"
-		},
-		"The Horde": {
-			"name": "The Horde"
-		},
-		"The Lampblacks": {
-			"name": "The Lampblacks"
-		},
-		"The Lost": {
-			"name": "The Lost"
-		},
-		"The Path of Echoes": {
-			"name": "The Path of Echoes"
-		},
-		"The Reconciled": {
-			"name": "The Reconciled"
-		},
-		"The Red Sashes": {
-			"name": "The Red Sashes"
-		},
-		"The Silver Nails": {
-			"name": "The Silver Nails"
-		},
-		"The Unseen": {
-			"name": "The Unseen"
-		},
-		"The Weeping Lady": {
-			"name": "The Weeping Lady"
-		},
-		"The Wraiths": {
-			"name": "The Wraiths"
-		},
-		"Ulf Ironborn": {
-			"name": "Ulf Ironborn"
-		}
-	}
+   "label":"Facções",
+   "mapping":{
+      "description":"data.description"
+   },
+   "entries":{
+      "Bluecoats":{
+         "name":"Os Casacas Azuis",
+         "description":"A Guarda Municipal de Doskvol, teoricamente responsável por manter a lei. Amplamente reconhecida como a gangue mais perversa da cidade. Corruptos, violentos e cruéis."
+      },
+      "Cabbies":{
+         "name":"Cocheiros",
+         "description":"Os condutores dos coches públicos. Eles também criam as grandes e robustas cabras akorosianas que puxam as carroças. Funcionam como uma rede de fofocas impressionante."
+      },
+      "Citizenry":{
+         "name":"Cidadãos",
+         "description":"Os habitantes ordinários de um bairro podem ser representados através de uma facção, se você quiser acompanhar o status do bando em relação a eles. O mestre determina uma Categoria de acordo com o nível de riqueza e poder dos cidadãos do bairro (Coroa-Alva poderia ser de Categoria V enquanto as Docas teriam Categoria II; já a Baixada do Borralho poderia ter Categoria 0)."
+      },
+      "City Council":{
+         "name":"Conselho Municipal",
+         "description":"A alta nobreza que administra o governo municipal."
+      },
+      "Cyphers":{
+         "name":"Cifras",
+         "description":"A guilda de mensageiros da cidade. Juramentos sagrados de sigilo as impedem de revelar o conteúdo das mensagens, ou as identidades de clientes – ou pelo menos é isso o que dizem."
+      },
+      "Deathlands Scavengers":{
+         "name":"Legião da Morte",
+         "description":"Condenados da prisão Anzolférreo e independentes desesperados que vasculham as terras mortais em busca de tesouros perdidos."
+      },
+      "Dockers":{
+         "name":"Estivadores",
+         "description":"Os duros e grosseiros trabalhadores das docas."
+      },
+      "Gondoliers":{
+         "name":"Gondoleiros",
+         "description":"A guilda dos barqueiros dos canais. Tradicionalmente adorados pela população. Supostamente conhecem segredos ocultistas (muitas coisas ocultas jazem abaixo das águas de Obscura)."
+      },
+      "Imperial Military":{
+         "name":"Exército Imperial",
+         "description":"As forças armadas do Imperium lotadas em Doskvol. Possuem guarnições na Estação Ferroviária Gaddoc, no destroier naval Exemplar, e na fortaleza do Lorde Governador (somando cerca de 250 soldados)."
+      },
+      "Ink Rakes":{
+         "name":"Libertintos",
+         "description":"Os jornalistas, repórteres, críticos, polemizadores e editores dos jornais de Doskvol."
+      },
+      "Inspectors":{
+         "name":"Inspetores",
+         "description":"Os investigadores criminais da Guarda Municipal. Eles possuem uma reputação de ética e integridade, o que os torna amplamente detestados. Eles apresentam evidências para os casos levados aos juízes da cidade."
+      },
+      "Ironhook Prison":{
+         "name":"Prisão Anzolférreo",
+         "description":"Esse é o lugar onde muitos vigaristas passam uma boa parte de suas vidas. Várias organizações criminosas são administradas diariamente por detentos atrás de suas grades."
+      },
+      "Leviathan Hunters":{
+         "name":"Caçadores de Leviatãs",
+         "description":"Capitães e tripulações suficientemente corajosos (ou tolos) para confrontar os demônios titânicos do Mar do Vácuo. Trazem de suas longas jornadas o sangue de leviatãs, posteriormente processado em electroplasma."
+      },
+      "Lord Scurlock":{
+         "name":"Lorde Scurlock",
+         "description":"Um nobre antiquíssimo, que alguns afirmam ser imortal como o Imperador. Outros sugerem que seria um vampiro. Obcecado por segredos arcanos."
+      },
+      "Ministry of Preservation":{
+         "name":"Ministério da Preservação",
+         "description":"O órgão governamental do Imperium que supervisiona todo o transporte entre as cidades e a distribuição de alimentos e outros recursos vitais."
+      },
+      "Rail Jacks":{
+         "name":"Os Peões dos Trilhos",
+         "description":"Homens e mulheres que protegem os electro-trens do Imperium dos espíritos selvagens das terras mortais. Recentemente estão discutindo a formação de um sindicato."
+      },
+      "Sailors":{
+         "name":"Marujos",
+         "description":"Os capitães e tripulações de navios comerciais e da Marinha Imperial."
+      },
+      "Skovlander Refugees":{
+         "name":"Refugiados Skovlandeses",
+         "description":"Sobreviventes desesperados da Guerra da União, forçados a cometer crimes na falta de outras oportunidades."
+      },
+      "Sparkwrights":{
+         "name":"Faisqueiros",
+         "description":"Os engenheiros que fazem a manutenção das barreiras relampejantes. Também inventam novas tecnologias, desenvolvendo pesquisas perigosas no processo."
+      },
+      "Spirit Wardens":{
+         "name":"Patrulheiros Espirituais",
+         "description":"Os caçadores com máscaras de bronze que destroem espíritos descontrolados. Também administram o Crematório da Anunciação e pesquisam artefatos coletados das terras mortais. Suas identidades são secretas."
+      },
+      "The Billhooks":{
+         "name":"Os Cutelos",
+         "description":"Uma implacável gangue de brutamontes carregando cutelos e ganchos de carne."
+      },
+      "The Brigade":{
+         "name":"A Brigada",
+         "description":"Os bombeiros da cidade, adorados pelo seu heroísmo salvando vidas e odiados pelos seus esquemas de proteção e pilhagem. Popularmente conhecidos como “Salaminhos” (uma corruptela de seu nome ancestral, “Salamandras”)."
+      },
+      "The Church of Ecstasy":{
+         "name":"A Igreja do êxtase da Carne",
+         "description":"A “religião estatal”, se é que se pode dizer isso. Eles honram a vida do corpo e abominam o corrupto mundo espiritual. Funcionam essencialmente como uma sociedade secreta."
+      },
+      "The Circle of Flame":{
+         "name":"O Círculo das Chamas",
+         "description":"Uma sociedade secreta de antiquários e estudiosos que serve de fachada para extorsão, suborno, vícios e assassinato."
+      },
+      "The Crows":{
+         "name":"Os Corvos",
+         "description":"Uma gangue antiga sob nova liderança. Conhecida por seus jogos de azar e esquemas de extorsão."
+      },
+      "The Dimmer Sisters":{
+         "name":"As Irmãs Funestas",
+         "description":"Reclusas residentes em uma mansão que possuem uma reputação ocultista."
+      },
+      "The Fog Hounds":{
+         "name":"Mastins da Névoa",
+         "description":"Um bando de contrabandistas barra-pesada à procura de um patrono."
+      },
+      "The Forgotten Gods":{
+         "name":"Os Deuses Esquecidos",
+         "description":"Cultos dedicados aos costumes anteriores ao cataclisma, que servem a vontade de demônios e entidades ainda mais sombrias. Existem vários cultos diferentes, que raramente se organizam. A maioria deles individualmente conta como Categoria I ou II."
+      },
+      "The Foundation":{
+         "name":"A Fundação",
+         "description":"A poderosa ordem ancestral dos arquitetos e construtores. Muitos dos seus inimigos desapareceram entre os tijolos e cimento de Doskvol."
+      },
+      "The Gray Cloaks":{
+         "name":"Os Casacas Cinzas",
+         "description":"Ex-Casacas Azuis que mudaram completamente de lado e se dedicam ao crime."
+      },
+      "The Grinders":{
+         "name":"Os Trituradores",
+         "description":"Uma violenta gangue de estivadores e refinadores de sangue leviatã vindos de Skovlan."
+      },
+      "The Hive":{
+         "name":"A Colmeia",
+         "description":"Uma guilda de mercadores que também comercializa contrabando. O seu símbolo é uma abelha dourada."
+      },
+      "The Horde":{
+         "name":"A Horda",
+         "description":"Uma massa de vazios controlados por algum poder desconhecido e unidos em algum propósito maligno."
+      },
+      "The Lampblacks":{
+         "name":"Os Lanternas Negras",
+         "description":"A antiga guilda dos lanterneiros, que se virou para o crime após ter tido seus serviços substituídos pelas luzes elétricas."
+      },
+      "The Lost":{
+         "name":"Almas Perdidas",
+         "description":"Um grupo de exsoldados e rufiões dedicados à proteção dos oprimidos e desesperados."
+      },
+      "The Path of Echoes":{
+         "name":"Via dos Ecos",
+         "description":"Um culto misterioso quase em rebelião contra as leis espirituais do Imperium. Eles reverenciam os ancestrais e procuram conhecimentos perdidos do passado, associando-se com fantasmas e consultando-os sempre que possível."
+      },
+      "The Reconciled":{
+         "name":"Os Reconciliados",
+         "description":"Uma associação de espíritos que não se tornaram insanos com o passar do tempo."
+      },
+      "The Red Sashes":{
+         "name":"Os Faixas Escarlates",
+         "description":"Uma escola de esgrima iruviana que expandiu seus negócios para o crime."
+      },
+      "The Silver Nails":{
+         "name":"Os Cravos de Prata",
+         "description":"Uma companhia de mercenários severosi que lutaram pelo Imperium na Guerra da União. Famosos matadores de fantasmas."
+      },
+      "The Unseen":{
+         "name":"Os Velados",
+         "description":"Uma organização criminosa clandestina e sigilosa, que supostamente tem agentes infiltrados em todas as instituições criminosas."
+      },
+      "The Weeping Lady":{
+         "name":"A Dama Lacrimosa",
+         "description":"Uma caridade e pseudo-religião dedicada à primeira Dama Governadora de Doskvol. Em seus tempos a Dama Devera era considerada uma verdadeira campeã dos pobres e destituídos."
+      },
+      "The Wraiths":{
+         "name":"Os Vultos",
+         "description":"Um misterioso bando de ladrões e espiões mascarados."
+      },
+      "Ulf Ironborn":{
+         "name":"Ulf Filho do Ferro",
+         "description":"Um skovlandês brutal, recém-chegado em Doskvol, lutando contra todos para conquistar seu território."
+      }
+   }
 }
