@@ -1,16 +1,16 @@
 {
-	"label": "Crew Reputation",
+	"label": "Reputação do Bando",
 	"entries": {
 		"Alluring": {
-			"name": "Alluring",
+			"name": "Sedutor",
 			"description": ""
 		},
 		"Ambitious": {
-			"name": "Ambitious",
+			"name": "Ambicioso",
 			"description": ""
 		},
 		"Brutal": {
-			"name": "Brutal",
+			"name": "Violento",
 			"description": ""
 		},
 		"Cruel": {
@@ -18,51 +18,51 @@
 			"description": ""
 		},
 		"Daring": {
-			"name": "Daring",
+			"name": "Audacioso",
 			"description": ""
 		},
 		"Ferocious": {
-			"name": "Ferocious",
+			"name": "Feroz",
 			"description": ""
 		},
 		"Honorable": {
-			"name": "Honorable",
+			"name": "Honrado",
 			"description": ""
 		},
 		"Monstrous": {
-			"name": "Monstrous",
+			"name": "Monstruoso",
 			"description": ""
 		},
 		"Professional": {
-			"name": "Professional",
+			"name": "Profissional",
 			"description": ""
 		},
 		"Radiant": {
-			"name": "Radiant",
+			"name": "Radiante",
 			"description": ""
 		},
 		"Savvy": {
-			"name": "Savvy",
+			"name": "Astuto",
 			"description": ""
 		},
 		"Serene": {
-			"name": "Serene",
+			"name": "Sereno",
 			"description": ""
 		},
 		"Sinister": {
-			"name": "Sinister",
+			"name": "Sinistro",
 			"description": ""
 		},
 		"Strange": {
-			"name": "Strange",
+			"name": "Estranho",
 			"description": ""
 		},
 		"Subtle": {
-			"name": "Subtle",
+			"name": "Sutil",
 			"description": ""
 		},
 		"Transcendent": {
-			"name": "Transcendent",
+			"name": "Transcendente",
 			"description": ""
 		}
 	}

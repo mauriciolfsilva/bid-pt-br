@@ -1,149 +1,242 @@
 {
-	"label": "Crew Abilities",
+	"label": "Habilidades do Bando",
+	"mapping": {
+    "description": "data.description",
+		"class":"data.class"
+  },
+  
 	"entries": {
 		"(A) Crow's Veil": {
-			"name": "(A) Crow's Veil"
+			"name": "(A) Véu do Corvo",
+      "description" :"Devido a duras experiências ou rituais arcanos, os corvos busca-morte não conseguem notar as atividades do seu bando. O seu bando não recebe atenção extra quando ocorre um assassinato durante um golpe.",
+      "class": "Assassinos"      
 		},
 		"(A) Deadly": {
-			"name": "(A) Deadly"
+			"name": "(A) Mortal",
+      "description" :"Cada PJ pode adicionar +1 ao seu valor de ação de Brigar, Caçar ou Esgueirar (para um valor máximo de 3).",
+      "class": "Assassinos"      
 		},
 		"(A) Emberdeath": {
-			"name": "(A) Emberdeath"
+			"name": "(A) Extinguir a Centelha",
+      "description" :"Devido a duras experiências ou rituais arcanos, o seu bando conhece um método arcano para destruir o espírito de um alvo vivo no momento de sua morte. Você pode sofrer 3 de estresse para canalizar energia electroplasmática pelo campo fantasmagórico, desintegrando o corpo e o espírito em uma chuva de faíscas cintilantes.",
+      "class": "Assassinos"      
 		},
 		"(A) No Traces": {
-			"name": "(A) No Traces"
+			"name": "(A) Sem Rastros",
+      "description" :"O seu bando ainda recebe metade do valor de moral do alvo (arredondado para cima) quando executa uma operação em segredo ou faz com que pareça um acidente. Ele também recebe +1 moral quando termina a folga com zero de atenção.",
+      "class": "Assassinos"      
 		},
 		"(A) Patron": {
-			"name": "(A) Patron"
+			"name": "(A) Patrono",
+      "description" :"Seu bando gasta apenas metade das moedas para subir de Categoria. Quem é o seu patrono? Por que ele ajuda vocês?",
+      "class": "Assassinos"      
 		},
 		"(A) Predators": {
-			"name": "(A) Predators"
+			"name": "(A) Predadores",
+      "description" :"Você recebe +1d na rolagem de abertura quando usa um plano de enganação ou furtividade para cometer um assassinato.",
+      "class": "Assassinos"      
 		},
 		"(A) Veteran": {
-			"name": "(A) Veteran"
+			"name": "(A) Veterano",
+      "description" :"Escolha uma habilidade especial de outro bando.",
+      "class": "Assassinos"      
 		},
 		"(A) Vipers": {
-			"name": "(A) Vipers"
+			"name": "(A) Serpentes",
+      "description" :"Você recebe +1 nível de resultado em rolagens para adquirir ou criar venenos. Ao empregar um determinado veneno, você se prepara para se imunizar de seus efeitos.",
+      "class": "Assassinos"      
 		},
 		"(Br) Blood Brothers": {
-			"name": "(Br) Blood Brothers"
+			"name": "(Br) Irmãos de Sangue",
+      "description" :"Os seus parceiros recebem +1d em rolagens de trabalho em equipe (ações de grupo e facilitar) sempre que lutam ao lado de algum PJ. Todos os seus parceiros recebem o tipo Capangas gratuitamente (se já possuam esse tipo, adicione outro)."
 		},
 		"(Br) Dangerous": {
-			"name": "(Br) Dangerous"
+			"name": "(Br) Perigosos",
+      "description" :"Cada PJ pode adicionar +1 ao seu valor de ação de Brigar, Caçar ou Detonar (para um valor máximo de 3)."
 		},
 		"(Br) Door Kickers": {
-			"name": "(Br) Door Kickers"
+			"name": "(Br) Chutadores de Portas",
+      "description" :"Você recebe +1d na rolagem de abertura quando usa um plano de agressão."
 		},
 		"(Br) Fiends": {
-			"name": "(Br) Fiends"
+			"name": "(Br) Diabos",
+      "description" :"O medo e o respeito andam lado a lado. Vocês tratam cada nível de procurado como território."
 		},
 		"(Br) Forged In The Fire": {
-			"name": "(Br) Forged In The Fire"
+			"name": "(Br) Forjados nas Chamas",
+      "description" :"Cada PJ foi endurecido pelas experiências cruéis enfrentadas na sua carreira. Vocês recebem +1d em rolagens de resistência."
 		},
 		"(Br) Patron": {
-			"name": "(Br) Patron"
+			"name": "(Br) Patrono",
+      "description" :"Seu bando gasta apenas metade das moedas para subir de Categoria. Quem é o seu patrono? Por que ele ajuda vocês?"
 		},
 		"(Br) Veteran": {
-			"name": "(Br) Veteran"
+			"name": "(Br) Veterano",
+      "description" :"Escolha uma habilidade especial de outro bando."
 		},
 		"(Br) War Dogs": {
-			"name": "(Br) War Dogs"
-		},
+			"name": "(Br) Cães de Guerra",
+      "description" :"O bando não sofre a perda de controle por estar em guerra com outra facção (-3 status) e ainda podem realizar duas atividades de folga ao invés de apenas uma."
+		},    
 		"(C) Anointed": {
-			"name": "(C) Anointed"
+			"name": "(C) Ungidos",
+      "description" :"Você recebe +1d em rolagens de resistência contra ameaças sobrenaturais, e +1d em rolagens de recuperação enquanto possuir algum dano de origem sobrenatural.",
+      "class": "Culto"      
 		},
 		"(C) Bound in Darkness": {
-			"name": "(C) Bound in Darkness"
+			"name": "(C) Unidos Através da Escuridão",
+      "description" :"Você pode executar manobras de trabalho em equipe com qualquer membro do culto, independentemente da distância que os separa. Você também pode sofrer 1 de estresse para sussurrar uma mensagem que será ouvida por todos os cultistas.",
+      "class": "Culto"      
 		},
 		"(C) Chosen": {
-			"name": "(C) Chosen"
+			"name": "(C) Escolhidos",
+      "description" :"Cada PJ pode adicionar +1 ao seu valor de ação de Estudar, Convencer ou Sintonizar (para um valor máximo de 3).",
+      "class": "Culto"      
 		},
 		"(C) Conviction": {
-			"name": "(C) Conviction"
+			"name": "(C) Devoção",
+      "description" :"Cada PJ ganha um novo vício: Adoração. Você não corre o risco de passar da conta se trouxer um sacrifício adequado para satisfazer esse vício. Após o sacrifício, a sua divindade oferece uma ajuda em uma rolagem de ação realizada por você (até você satisfazer seu vício novamente).",
+      "class": "Culto"      
 		},
 		"(C) Glory Incarnate": {
-			"name": "(C) Glory Incarnate"
+			"name": "(C) Glória Encarnada",
+      "description" :"A sua divindade se manifesta ocasionalmente no mundo físico. Isso pode parecer uma grande dádiva, mas um deus tem prioridades e valores muito diferentes dos simples mortais. Considere isso um aviso.",
+      "class": "Culto"      
 		},
 		"(C) Sealed in Blood": {
-			"name": "(C) Sealed in Blood"
+			"name": "(C) Selado em Sangue",
+      "description" :"Cada sacrifício humano diminui em 3 o custo de estresse de rituais executados pelos PJs.",
+      "class": "Culto"      
 		},
 		"(C) Veteran": {
-			"name": "(C) Veteran"
+			"name": "(C) Veterano",
+      "description" :"Escolha uma habilidade especial de outro bando.",
+      "class": "Culto"      
 		},
 		"(C) Zealotry": {
-			"name": "(C) Zealotry"
+			"name": "(C) Fanatismo",
+      "description" :"Os seus parceiros abandonaram a sua razão para devotarem se completamente ao culto. Eles executarão qualquer serviço requisitado, independentemente do risco ou estranheza. Eles também recebem +1d em rolagens sempre que agirem contra inimigos da fé.",
+      "class": "Culto"      
 		},
 		"(H) Accord": {
-			"name": "(H) Accord"
+			"name": "(Ma) Consórcio",
+      "description" :"Às vezes, bons amigos valem mais que territórios. Cada status de facção +3 possuído pelo bando (máx. de 3) conta como um território sob seu controle.",
+      "class": "Mascates"      
 		},
 		"(H) Ghost Market": {
-			"name": "(H) Ghost Market"
+			"name": "(Ma) Mercado Fantasma",
+      "description" :"Seja através de terríveis experiências ou rituais ocultistas, você descobriu uma maneira de preparar o seu produto para ser vendido para fantasmas e/ou demônios. Eles não pagam em moedas – com o que eles pagam?",
+      "class": "Mascates"      
 		},
 		"(H) High Society": {
-			"name": "(H) High Society"
+			"name": "(Ma) Alta Sociedade",
+      "description" :"Você conhece as pessoas certas. O bando recebe -1 atenção durante a folga e +1d para levantar informações sobre a elite da cidade.",
+      "class": "Mascates"      
 		},
 		"(H) Hooked": {
-			"name": "(H) Hooked"
+			"name": "(Ma) Viciados",
+      "description" :"Os membros das suas gangues usam o seu produto. Acrescente o defeito feroz, indomável ou instável para conceder a uma gangue +1 de qualidade.",
+      "class": "Mascates"      
 		},
 		"(H) Patron": {
-			"name": "(H) Patron"
+			"name": "(Ma) Patrono",
+      "description" :"O seu bando gasta só metade da quantidade de moedas para subir de Categoria. Quem é o seu patrono? Por que ele ajuda o seu bando?",
+      "class": "Mascates"      
 		},
 		"(H) Silver Tongues": {
-			"name": "(H) Silver Tongues"
+			"name": "(Ma) Língua Afiada",
+      "description" :"Cada PJ pode adicionar +1 ao seu valor de ação de Comandar, Convencer ou Socializar (para um valor máximo de 3).",
+      "class": "Mascates"      
 		},
 		"(H) The Good Stuff": {
-			"name": "(H) The Good Stuff"
+			"name": "(Ma) Alta Qualidade",
+      "description" :"A sua mercadoria é excelente. A qualidade do seu produto é igual à sua Categoria +2. Quando você lida com outro bando ou facção, o mestre indica quais deles são viciados no seu produto (apenas um, alguns deles, vários ou todos).",
+      "class": "Mascates"      
 		},
 		"(H) Veteran": {
-			"name": "(H) Veteran"
+			"name": "(Ma) Veterano",
+      "description" :"Escolha uma habilidade especial de outro bando.",
+      "class": "Mascates"      
 		},
 		"(Sh) Everyone Steals": {
-			"name": "(Sh) Everyone Steals"
+			"name": "(So) Cem Anos de Perdão",
+      "description" :"Cada PJ pode adicionar +1 ao seu valor de ação de Adulterar, Esgueirar ou Manejar (para um valor máximo de 3).",
+      "class": "Sombras"      
 		},
 		"(Sh) Ghost Echoes": {
-			"name": "(Sh) Ghost Echoes"
+			"name": "(So) Ecos Fantasmagóricos",
+      "description" :"Seja através de terríveis experiências ou rituais ocultistas, todos os membros do seu bando conseguem ver e interagir com objetos, estruturas e ruas fantasmagóricas que existem no eco de Doskvol dentro do campo fantasmagórico.",
+      "class": "Sombras"      
 		},
 		"(Sh) Pack Rats": {
-			"name": "(Sh) Pack Rats"
+			"name": "(So) Acumuladores",
+      "description" :"O covil do bando é uma verdadeira bagunça de objetos roubados. Você recebe +1d em rolagens para adquirir um recurso.",
+      "class": "Sombras"      
 		},
 		"(Sh) Patron": {
-			"name": "(Sh) Patron"
+			"name": "(So) Patrono",
+      "description" :"O seu bando gasta só metade da quantidade de moedas para subir de Categoria. Quem é o seu patrono? Por que ele ajuda o seu bando?",
+      "class": "Sombras"      
 		},
 		"(Sh) Second Story": {
-			"name": "(Sh) Second Story"
+			"name": "(So) Gatunos",
+      "description" :"Você recebe +1d na rolagem de abertura ao executar uma infiltração clandestina.",
+      "class": "Sombras"      
 		},
 		"(Sh) Slippery": {
-			"name": "(Sh) Slippery"
+			"name": "(So) Escorregadios",
+      "description" :"Quando determinar as desavenças, role dois dados e escolha um dos resultados. Receba também +1d para reduzir a atenção do bando.",
+      "class": "Sombras"      
 		},
 		"(Sh) Synchronized": {
-			"name": "(Sh) Synchronized"
+			"name": "(So) Sincronizados",
+      "description" :"Quando você faz uma ação coletiva, cada resultado 6 obtido nas rolagens individuais conta como um sucesso crítico.",
+      "class": "Sombras"      
 		},
 		"(Sh) Veteran": {
-			"name": "(Sh) Veteran"
+			"name": "(So) Veterano",
+      "description" :"Escolha uma habilidade especial de outro bando.",
+      "class": "Sombras"      
 		},
 		"(Sm) All Hands": {
-			"name": "(Sm) All Hands"
+			"name": "(Co) Hora Extra",
+      "description" :"Durante cada fase de folga, um dos seus parceiros pode realizar uma das seguintes atividades para o bando: adquirir um recurso, reduzir atenção ou trabalhar em algum projeto de longo prazo.",
+      "class": "Contrabandistas"      
 		},
 		"(Sm) Ghost Passage": {
-			"name": "(Sm) Ghost Passage"
+			"name": "(Co) Passagem Fantasma",
+      "description" :"Seja através de terríveis experiências ou rituais ocultistas, todos os membros do seu bando são imunes à possessão de fantasmas. Eles também são capazes de “transportar” um fantasma como passageiro dentro de seu corpo.",
+      "class": "Contrabandistas"      
 		},
 		"(Sm) Just Passing Through": {
-			"name": "(Sm) Just Passing Through"
+			"name": "(Co) De Passagem",
+      "description" :"O bando recebe -1 atenção durante a folga. Enquanto a sua atenção for igual ou menor a 4, membros recebem +1d para enganar outros se passando por cidadãos simples.",
+      "class": "Contrabandistas"      
 		},
 		"(Sm) Leverage": {
-			"name": "(Sm) Leverage"
+			"name": "(Co) Influência",
+      "description" :"O seu bando fornece produtos ilícitos para outras facções, que se beneficiam com seu sucesso. Cada vez que receberem moral, aumente em um a quantidade recebida.",
+      "class": "Contrabandistas"      
 		},
 		"(Sm) Like Part of the Family": {
-			"name": "(Sm) Like Part of the Family"
+			"name": "(Co) Parte da Família",
+      "description" :"Um dos seus veículos é considerado um parceiro (use os méritos e defeitos de veículos ao lado). A sua qualidade é igual à Categoria do bando +1.",
+      "class": "Contrabandistas"      
 		},
 		"(Sm) Reavers": {
-			"name": "(Sm) Reavers"
+			"name": "(Co) Piratas",
+      "description" :"Quando o bando entra em conflito a bordo de veículos, vocês ganham +1 de efeito em rolagens envolvendo o dano e velocidade do veículo. O seu veículo também recebe armadura.",
+      "class": "Contrabandistas"      
 		},
 		"(Sm) Renegades": {
-			"name": "(Sm) Renegades"
+			"name": "(Co) Renegados",
+      "description" :"Cada PJ pode adicionar +1 ao seu valor de ação de Brigar, Esgueirar ou Manejar (para um valor máximo de 3).",
+      "class": "Contrabandistas"      
 		},
 		"(Sm) Veteran": {
-			"name": "(Sm) Veteran"
+			"name": "(Co) Veterano",
+      "description" :"Escolha uma habilidade especial de outro bando.",
+      "class": "Contrabandistas"      
 		}
 	}
 }
