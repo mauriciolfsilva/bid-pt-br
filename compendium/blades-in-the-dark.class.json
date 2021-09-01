@@ -13,7 +13,8 @@
 		},
 		"Ghost": {
 			"name": "Fantasma",
-      "description" : "Um espírito desencarnado"
+      "description" : "Um espírito desencarnado",
+      "experience_clues": "<br><h2>SUBSTITUEM AS GUIAS ANTERIORES</h2>- Vingou-se de quem considerava culpado.<br>- Expressou sua raiva ou indignação, ou acertou contas do seu histórico ou raízes.<br>- Enfrentou problemas gerados pela sua necessidade ou angústia durante a sessão."      
 		},
 		"Hound": {
 			"name": "Cão de Caça",
@@ -22,7 +23,8 @@
 		},
 		"Hull": {
 			"name": "Casco",
-      "description" : "Um espírito animando uma carcaça de faiscaria"
+      "description" : "Um espírito animando uma carcaça de faiscaria",
+      "experience_clues": "<br><h2>SUBSTITUEM AS GUIAS ANTERIORES</h2>- Desempenhou suas funções apesar das dificuldades ou perigos.<br>- Suprimiu ou ignorou as suas antigas características humanas.<br>- Enfrentou problemas gerados pelo o seu desgaste durante a sessão." 
 		},
 		"Leech": {
 			"name": "Doutor",
@@ -45,8 +47,9 @@
       "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração."
 		},
 		"Vampire": {
-			"name": "Vampire",
-      "description" : "<br>- Espírito animando um corpo morto-vivo"
+			"name": "Vampiro",
+      "description" : "<br>- Espírito animando um corpo morto-vivo",
+      "experience_clues": "<br><h2>SUBSTITUEM AS GUIAS ANTERIORES</h2>- Demonstrou a sua dominação ou matou sem misericórdia.<br>- Suprimiu ou ignorou as suas antigas características humanas.<br>- Enfrentou problemas gerados pelo o seu vício, traumas ou restrições durante a sessão"            
 		},
 		"Whisper": {
 			"name": "Sussurro",
