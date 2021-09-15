@@ -1,0 +1,53 @@
+{
+	"label": "Registros de Desavenças",
+	"entries": {
+		"Arrest": {
+			"name": "Ordem de Prisão",
+			"description": "<p>Um Inspetor apresenta a sua investiga&ccedil;&atilde;o e evid&ecirc;ncias a um juiz, que abre um processo criminal e emite mandados de pris&atilde;o contra o bando. Um esquadr&atilde;o de Casacas Azuis (que conta como uma gangue com <strong>escala igual ao seu n&iacute;vel de procurado ou superior</strong>) &eacute; enviado para aprisionar membros do bando. O grupo pode suborn&aacute;-los com uma quantidade de <strong>moedas igual ao n&iacute;vel de procurado do bando +3</strong>, entregar algu&eacute;m para ser preso (o que <strong>remove toda a aten&ccedil;&atilde;o do bando</strong>) ou tentar fugir.</p> <blockquote> <p>Um cassetete bate com for&ccedil;a na janela. &ldquo;Guarda Municipal! Esvaziem o recinto e sem fazer confus&atilde;o!&rdquo; Voc&ecirc;s reconhecem a voz do Sargento Klellan, e um olhar pelas venezianas revela que ele est&aacute; acompanhado de uns vinte Casacas Azuis, todos armados at&eacute; os dentes. O sargento resmunga baixo, e s&oacute; voc&ecirc;s do outro lado da janela ouvem: &ldquo;Ou ser&aacute; que eu anotei o endere&ccedil;o errado?&rdquo; Ele limpa a garganta e coloca a m&atilde;o embaixo da janela, esperando algumas moedas magicamente aparecerem.</p> </blockquote>"
+		},
+		"Cooperation": {
+			"name": "Cooperação",
+			"description": "<p>Uma facção aliada (status +3) pede um favor. O bando pode realizar o favor, perder 1 de moral por Categoria da facção aliada ou perder 1 de status com essa facção. Se o bando não possui nenhuma facção aliada (ou seja, uma com status +3), nenhuma desavença ocorre nesse momento.</p>"
+		},
+		"Demonic Notice": {
+			"name": "Proposta Demoníaca",
+			"description": "<p>Um dem&ocirc;nio se aproxima do bando com uma proposta sinistra. Voc&ecirc;s podem aceitar a barganha, esconder-se at&eacute; que o dem&ocirc;nio perca o interesse (assim <strong>perdendo 3 de moral</strong>) ou lidar com a situa&ccedil;&atilde;o de outra forma.</p>"
+		},
+		"Flipped": {
+			"name": "Vira-Casaca",
+			"description": "<p>Devido &agrave; pesada aten&ccedil;&atilde;o sobre os PJs, um rival consegue aliciar um contato, patrono, cliente ou grupo de consumidores do bando. Esse alvo passa a ser leal a outra fac&ccedil;&atilde;o.</p> <blockquote> <p>O boato nas ruas &eacute; que Laroze est&aacute; trabalhando para os Cutelos agora. Outro dia viram ele e o Flint batendo papo no bar... Aquele desgra&ccedil;ado provavelmente est&aacute; por tr&aacute;s disso. Remova Laroze dos seus contatos at&eacute; que essa situa&ccedil;&atilde;o seja acertada.</p> </blockquote>"
+		},
+		"Gang Trouble": {
+			"name": "Parceiro Problemático",
+			"description": "<p>Um dos parceiros do bando (gangue ou especialistas) causa problemas devido ao seu defeito. O bando pode perder moral (gual a sua Categoria +1), punir o parceiro como forma de exemplo, ou encarar as poss&iacute;veis retalia&ccedil;&otilde;es das partes ofendidas.</p> <blockquote> <p>Ap&oacute;s o ataque final dos PJs aos Faixas Escarlates, a sua gangue feroz foge de controle e vai longe demais. Eles come&ccedil;am a atacar qualquer iruviano encontrado nas ruas do P&eacute;-de-Corvo e acabam desfigurando um cidad&atilde;o em uma briga de taverna. Todo mundo est&aacute; se perguntando: &ldquo;Ser&aacute; que os Sanguin&aacute;rios perderam o controle?&rdquo; Arcy resolve fazer um exemplo de um dos membros da gangue. Ela leva-os para a taverna do incidente e enfia a cara da agressora no bar, deixando-a com uma terr&iacute;vel cicatriz.</p> <p>Algumas sess&otilde;es atr&aacute;s, Arcy ofendeu a gangue de maneira grosseira, criando um rel&oacute;gio chamado &ldquo;A Gangue Contra-Ataca&rdquo;. O mestre decide que essa nova puni&ccedil;&atilde;o justifica o outro avan&ccedil;o nesse rel&oacute;gio. Isso o finaliza, o que significa que as ofensas de Arcy contra a gangue feroz finalmente se voltar&atilde;o contra ela.</p> </blockquote>"
+		},
+		"Interrogation": {
+			"name": "Interrogatório",
+			"description": "<p>Os Casacas Azuis det&ecirc;m um dos PJs para question&aacute;-lo sobre os crimes do bando. Como eles conseguiram capturar o personagem? Ele pode suborn&aacute;-los com <strong>3 moedas</strong>, ou levar uma surra <strong>(dano de n&iacute;vel 2)</strong> e entregar informa&ccedil;&otilde;es aos guardas (+3 de aten&ccedil;&atilde;o). O jogador pode <strong>resistir</strong> a cada uma dessas consequ&ecirc;ncias separadamente.</p> <blockquote> <p>Alguns jogadores odeiam ter seus personagens capturados. Deixe claro que isso &eacute; rotina para os vigaristas do submundo. Voc&ecirc; passa algum tempo entrando e saindo da cadeia, sendo interrogado e importunado pelos agentes da lei &ndash; n&atilde;o &eacute; como se fosse o fim do mundo. Mas agora que est&aacute; na sala de interrogat&oacute;rio, que tipo de pessoa voc&ecirc; &eacute;? Voc&ecirc; abre a boca? Voc&ecirc; resiste? Faz um acordo?</p> </blockquote>"
+		},
+		"Questioning": {
+			"name": "Questionamento",
+			"description": "<p>Os Casacas Azuis levam um PdM do bando (seja um contato ou membro) para responder algumas perguntas sobre os seus crimes. Quem a pol&iacute;cia acha que &eacute; mais vulner&aacute;vel? O grupo pode subornar os Casacas Azuis com 2 moedas ou fazer uma rolagem de sorte para determinar quanta informa&ccedil;&atilde;o o PdM revela:</p> <ul> <li><strong>1 a 3:</strong> +2 de aten&ccedil;&atilde;o</li> <li><strong>4 ou 5:</strong> +1 de aten&ccedil;&atilde;o</li> </ul> <blockquote> <p>Uma pessoa normal tentando manter sigilo rola 2d. Um criminoso experiente ou dur&atilde;o rola 3d ou 4d. J&aacute; PdMs mais molengas ou leais &agrave; lei rolam 1d ou mesmo 0d.</p> </blockquote>"
+		},
+		"Reprisals": {
+			"name": "Represálias",
+			"description": "<p>Uma fac&ccedil;&atilde;o inimiga resolve acertar as contas (ou um amigo, contato ou fornecedor de v&iacute;cio). O grupo pode fazer um pagamento como pedido de desculpas (perdendo 1 de moral e 1 moeda), permitir a retalia&ccedil;&atilde;o ou lutar contra o inimigo e mostrar quem &eacute; dono do peda&ccedil;o.</p>"
+		},
+		"Rivals": {
+			"name": "Rivalidade",
+			"description": "<p>Uma fac&ccedil;&atilde;o neutra resolve botar banca na &aacute;rea. Eles amea&ccedil;am o bando, um aliado, contato ou fornecedor de v&iacute;cio. O grupo pode ceder (perdendo uma quantidade de moral ou moedas igual &agrave; Categoria do rival) ou resistir (<strong>perdendo 1 de status</strong> com essa fac&ccedil;&atilde;o).</p>"
+		},
+		"Show of Force": {
+			"name": "Demonstração de Força",
+			"description": "<p>Uma facção hostil (de qualquer status negativo) tenta tomar uma das posses do bando. O grupo pode ceder 1 posse ou entrar em guerra com a facção (reduzindo o seu status para -3). Caso não tenha nenhuma posse, o bando perde um nível de controle.</p>"
+		},
+		"The Usual Suspects": {
+			"name": "Os Suspeitos de Sempre",
+			"description": "<p>Os Casacas Azuis questionam uma pessoa pr&oacute;xima ao seu bando. Um jogador sugere um amigo ou fornecedor de v&iacute;cio como um alvo prov&aacute;vel da lei. O grupo pode oferecer <strong>1 moeda</strong> em suborno; ou fazer uma <strong>rolagem de sorte</strong> para determinar a resist&ecirc;ncia do PdM ao interrogat&oacute;rio</p> <ul> <li>1 a 3: <strong>+2 aten&ccedil;&atilde;o</strong>,</li> <li>4 ou 5: <strong>dano de n&iacute;vel 2</strong></li> </ul>"
+		},
+		"Unquiet Dead": {
+			"name": "Mortos Inquietos",
+			"description": "<p>Um esp&iacute;rito descontrolado assombra o bando &ndash; talvez uma v&iacute;tima passada? O grupo pode lidar com o esp&iacute;rito pelos seus pr&oacute;prios meios ou contratar os servi&ccedil;os de um Sussurro ou Pe&atilde;o dos Trilhos para tentar bani-lo ou destru&iacute;-lo.</p> <blockquote> <p>Eles podem contratar os servi&ccedil;os de um PdM atrav&eacute;s da atividade de folga adquirir recurso. Fa&ccedil;a uma rolagem de sorte com o n&iacute;vel de qualidade do PdM para determinar o seu sucesso em lidar com o esp&iacute;rito.</p> </blockquote>"
+		}
+	}
+}

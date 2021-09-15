@@ -52,153 +52,223 @@
       "class":"Bravos"
 		},
 		"(B) Ironhook Contacts": {
-			"name": "(B) Ironhook Contacts",
-      "description":"",
+			"name": "(B) Contatos Atrás das Grades",
+      "description":"A sua Categoria aumenta em 1 dentro da prisão. Isso vale para qualquer circunstância que use a sua Categoria dentro da prisão, incluindo a rolagem de prisão.",
       "class":"Bravos"
 		},
 		"(C) Cult Rigging": {
-			"name": "(C) Cult Rigging"
+			"name": "(C) Aparelhagem de Cultistas",
+      "description":"Você pode levar 2 de carga adicional de documentos ou implementos arcanos. Por exemplo: você pode carregar um livro profano de maldições e uma mão demoníaca, e ainda ficar com carga 0.",
+      "class":"Culto"
 		},
 		"(C) Elite Adepts": {
-			"name": "(C) Elite Adepts"
+			"name": "(C) Capangas de Elite",
+      "description":"Todos os parceiros com o tipo Capangas recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
+      "class":"Culto"
 		},
 		"(C) Elite Thugs": {
-			"name": "(C) Elite Thugs"
+			"name": "(C) Adeptos de Elite",
+      "description":"Todos os parceiros com o tipo Adeptos recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
+      "class":"Culto"
 		},
 		"(C) Ordained": {
-			"name": "(C) Ordained"
+			"name": "(C) Ordenados",
+      "description":"Cada PJ recebe +1 caixa de trauma. Esse benefício custa três melhorias em vez de uma. Se for do interesse dos jogadores, essa melhoria pode trazer de volta ao jogo um PJ que tenha sofrido 4 traumas.",
+      "class":"Culto"
 		},
 		"(C) Ritual Sanctum in Lair": {
-			"name": "(C) Ritual Sanctum in Lair"
+			"name": "(C) Santuário Ritualístico no Covil",
+      "description":"Esse santuário no covil do bando conta como uma oficina arcana e sagrada para práticas e rituais ocultistas.",
+      "class":"Culto"
 		},
 		"(H) Composed": {
-			"name": "(H) Composed"
+			"name": "(Ma) Compostura",
+      "description":"Cada PJ recebe +1 caixa de estresse. Esse benefício custa três melhorias em vez de uma.",
+      "class":"Mascates"
 		},
 		"(H) Elite Rooks": {
-			"name": "(H) Elite Rooks"
+			"name": "(Ma) Trapaceiros de Elite",
+      "description":"Todos os parceiros com o tipo Trapaceiros recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
+      "class":"Mascates"
 		},
 		"(H) Elite Thugs": {
-			"name": "(H) Elite Thugs"
+			"name": "(Ma) Capangas de Elite",
+      "description":"Todos os parceiros com o tipo Capangas recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
+      "class":"Mascates"
 		},
 		"(H) Hawker Rigging": {
-			"name": "(H) Hawker Rigging"
+			"name": "(Ma) Aparelhagem de Mascates",
+      "description":"Um item carregado é ocultado e conta como 0 de carga. Por exemplo: você pode carregar e ocultar perfeitamente um pacote de drogas ou arma, e ainda ficar com carga 0.",
+      "class":"Mascates"
 		},
 		"(H) Ironhook Contacts": {
-			"name": "(H) Ironhook Contacts"
+			"name": "(Ma) Contatos Atrás das Grades",
+      "description":"A sua Categoria aumenta em 1 dentro da prisão. Isso vale para qualquer circunstância que use a sua Categoria dentro da prisão, incluindo a rolagem de prisão.",
+      "class":"Mascates"
 		},
 		"(Sh) Elite Rooks": {
-			"name": "(Sh) Elite Rooks"
+			"name": "(So) Trapaceiros de Elite",
+      "description":"Todos os parceiros com o tipo Trapaceiros recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
+      "class":"Sombras"
 		},
 		"(Sh) Elite Skulks": {
-			"name": "(Sh) Elite Skulks"
+			"name": "(So) Sorrateiros de Elite",
+      "description":"Todos os parceiros com o tipo Sorrateiros recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
+      "class":"Sombras"
 		},
 		"(Sh) Steady": {
-			"name": "(Sh) Steady"
+			"name": "(So) Firmeza",
+      "description":"Cada PJ recebe +1 caixa de estresse. Esse benefício custa três melhorias em vez de uma.",
+      "class":"Sombras"
 		},
 		"(Sh) Thief Rigging": {
-			"name": "(Sh) Thief Rigging"
+			"name": "(So) Aparelhagem de Sombras",
+      "description":"Você pode levar 2 de carga adicional de ferramentas ou instrumentos. Por exemplo: você pode carregar ferramentas de arrombamento e instrumentos de adulteração, e ainda ficar com carga 0.",
+      "class":"Sombras"
 		},
 		"(Sh) Underground Maps and Passkeys": {
-			"name": "(Sh) Underground Maps and Passkeys"
+			"name": "(So) Mapas e Chaves do Subterrâneo",
+      "description":"O bando tem passagem fácil através dos canais subterrâneos, túneis e porões da cidade.",
+      "class":"Sombras"
 		},
 		"(Sm) Barge": {
-			"name": "(Sm) Barge"
+			"name": "(Co) Balsa",
+      "description":"Adicione mobilidade ao seu covil. Você pode movê-lo para um novo local executando uma atividade de folga.",
+      "class":"Contrabandistas"
 		},
 		"(Sm) Camouflage": {
-			"name": "(Sm) Camouflage"
+			"name": "(Co) Camuflagem",
+      "description":"Os seus veículos se camuflam perfeitamente quando parados, confundindo-se com o ambiente ou parecendo ser veículos comuns (à sua escolha).",
+      "class":"Contrabandistas"
 		},
 		"(Sm) Elite Rovers": {
-			"name": "(Sm) Elite Rovers"
+			"name": "(Co) Andarilhos de Elite",
+      "description":"Todos os parceiros com o tipo Andarilhos recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
+      "class":"Contrabandistas"
 		},
 		"(Sm) Smuggler Rigging": {
-			"name": "(Sm) Smuggler Rigging"
+			"name": "(Co) Aparelhagem de Contrabandistas",
+      "description":"Dois itens carregados são perfeitamente ocultados. Você pode levar um carregamento de contrabando e uma pistola perfeitamente ocultados, resistindo mesmo a uma inspeção.",
+      "class":"Contrabandistas"
 		},
 		"(Sm) Steady": {
-			"name": "(Sm) Steady"
+			"name": "(Co) Firmeza",
+      "description":"Cada PJ recebe +1 caixa de estresse. Custa três melhorias ao invés de uma.",
+      "class":"Contrabandistas"
 		},
 		"(Sm) Vehicle 1": {
-			"name": "(Sm) Vehicle 1"
+			"name": "(Co) Veículo 1",
+      "description":"Todos os Contrabandistas começam o jogo com um veículo como parte de suas melhorias iniciais.",
+      "class":"Contrabandistas"
 		},
 		"(Sm) Vehicle 2": {
-			"name": "(Sm) Vehicle 2"
+			"name": "(Co) Veículo 2",
+      "description":"O bando pode usar outra melhoria para conceder armadura para o veículo.",
+      "class":"Contrabandistas"
 		},
 		"Boat House 1": {
-			"name": "Boat House 1"
+			"name": "Hangar de Barco 1",
+      "description":"Você possui um barco, uma doca em um canal e um pequeno hangar para armazenar equipamentos náuticos."
 		},
 		"Boat House 2": {
-			"name": "Boat House 2"
+			"name": "Hangar de Barco 2",
+      "description":"Essa melhoria pode ser realizada novamente, resultando em um barco reforçado contra ataques e capaz de suportar mais carga."
 		},
 		"Carriage House 1": {
-			"name": "Carriage House 1"
+			"name": "Garagem de Carruagem 1",
+      "description":"Você possui uma carruagem, animais de carga para puxá-la e um estábulo."
 		},
 		"Carriage House 2": {
-			"name": "Carriage House 2"
+			"name": "Garagem de Carruagem 2",
+      "description":"Essa melhoria pode ser realizada novamente, resultando em uma carruagem reforçada contra ataques e montarias maiores e mais rápidas."
 		},
 		"Cohort 1": {
-			"name": "Cohort 1"
+			"name": "Parceiro 1",
+      "description":"Um parceiro é uma gangue ou um único especialista PdM que trabalha para o bando."
 		},
 		"Cohort 2": {
-			"name": "Cohort 2"
+			"name": "Parceiro 2",
+      "description":"Um parceiro é uma gangue ou um único especialista PdM que trabalha para o bando."
 		},
 		"Cohort 3": {
-			"name": "Cohort 3"
+			"name": "Parceiro 3",
+      "description":"Um parceiro é uma gangue ou um único especialista PdM que trabalha para o bando."
 		},
 		"Cohort 4": {
-			"name": "Cohort 4"
+			"name": "Parceiro 4",
+      "description":"Um parceiro é uma gangue ou um único especialista PdM que trabalha para o bando."
 		},
 		"Hidden Lair": {
-			"name": "Hidden Lair"
+			"name": "Esconderijo",
+      "description":"O covil do seu bando tem uma localização secreta e disfarçada da vista de transeuntes. Mesmo se o covil for descoberto, ele pode ser realocado para uma nova localização secreta e escondida. Para isso, vocês precisam usar duas atividades de folga e pagar uma quantidade de moedas igual à Categoria do bando."
 		},
 		"Mastery": {
-			"name": "Mastery"
+			"name": "Maestria",
+      "description":"O seu bando tem acesso a treinamento de mestres. Os personagens dos jogadores podem aumentar os seus valores de ação até o nível 4 (eles são restritos ao nível 3 até obterem essa melhoria). A maestria custa quatro caixas de melhoria."
 		},
 		"Quality: Arcane Implements": {
-			"name": "Quality: Arcane Implements"
+			"name": "Qualidade: Implementos Arcanos",
+      "description":"Cada melhoria aumenta o nível de qualidade de todos os itens dos PJs de um determinado tipo. Esse aumento vai além da Categoria do bando e dos itens superiores dos PJs. Essa melhoria pode ser realizada novamente, cada vez para um tipo de equipamento diferente."
 		},
 		"Quality: Documents": {
-			"name": "Quality: Documents"
+			"name": "Qualidade: Documentos",
+      "description":"Cada melhoria aumenta o nível de qualidade de todos os itens dos PJs de um determinado tipo. Esse aumento vai além da Categoria do bando e dos itens superiores dos PJs. Essa melhoria pode ser realizada novamente, cada vez para um tipo de equipamento diferente."
 		},
 		"Quality: Gear": {
-			"name": "Quality: Gear"
+			"name": "Qualidade: Instrumentos",
+      "description":"Cada melhoria aumenta o nível de qualidade de todos os itens dos PJs de um determinado tipo. Esse aumento vai além da Categoria do bando e dos itens superiores dos PJs. Essa melhoria pode ser realizada novamente, cada vez para um tipo de equipamento diferente. (incluindo Instrumentos de Demolição e Instrumentos de Adulteração)"
 		},
 		"Quality: Subterfuge Supplies": {
-			"name": "Quality: Subterfuge Supplies"
+			"name": "Qualidade: Suprimentos de Subterfúgio",
+      "description":"Cada melhoria aumenta o nível de qualidade de todos os itens dos PJs de um determinado tipo. Esse aumento vai além da Categoria do bando e dos itens superiores dos PJs. Essa melhoria pode ser realizada novamente, cada vez para um tipo de equipamento diferente."
 		},
 		"Quality: Tools": {
-			"name": "Quality: Tools"
+			"name": "Qualidade: Ferramentas",
+      "description":"Cada melhoria aumenta o nível de qualidade de todos os itens dos PJs de um determinado tipo. Esse aumento vai além da Categoria do bando e dos itens superiores dos PJs. Essa melhoria pode ser realizada novamente, cada vez para um tipo de equipamento diferente. (incluindo Ferramentas de Escalada e Ferramentas de Arrombamento)"
 		},
 		"Quality: Weapons": {
-			"name": "Quality: Weapons"
+			"name": "Qualidade: Armas",
+      "description":"Cada melhoria aumenta o nível de qualidade de todos os itens dos PJs de um determinado tipo. Esse aumento vai além da Categoria do bando e dos itens superiores dos PJs. Essa melhoria pode ser realizada novamente, cada vez para um tipo de equipamento diferente."
 		},
 		"Quarters": {
-			"name": "Quarters"
+			"name": "Alojamentos",
+      "description":"O covil inclui quartos e alojamentos para os membros do bando. Sem essa melhoria, cada PJ dorme em um lugar diferente e fica relativamente vulnerável."
 		},
 		"Secure Lair 1": {
-			"name": "Secure Lair 1"
+			"name": "Covil Seguro 1",
+      "description":"O covil do seu bando é equipado com fechaduras, alarmes e armadilhas para repelir invasores."
 		},
 		"Secure Lair 2": {
-			"name": "Secure Lair 2"
+			"name": "Covil Seguro 2",
+      "description":"Essa melhoria pode ser realizada novamente, acrescentando proteções arcanas as quais funcionam contra espíritos."
 		},
 		"Training: Insight": {
-			"name": "Training: Insight"
+			"name": "Treinamento: Esperteza",
+      "description":"Essa melhoria permite que os PJs recebam 2 xp (ao invés de 1) ao treinarem um marcador específico de xp durante a folga, permitindo que eles avancem mais rapidamente."
 		},
 		"Training: Personal Exp": {
-			"name": "Training: Personal Exp"
+			"name": "Treinamento: Cartilha",
+      "description":"Essa melhoria permite que os PJs recebam 2 xp (ao invés de 1) ao treinarem um marcador específico de xp durante a folga, permitindo que eles avancem mais rapidamente."
 		},
 		"Training: Prowess": {
-			"name": "Training: Prowess"
+			"name": "Treinamento: Valentia",
+      "description":"Essa melhoria permite que os PJs recebam 2 xp (ao invés de 1) ao treinarem um marcador específico de xp durante a folga, permitindo que eles avancem mais rapidamente."
 		},
 		"Training: Resolve": {
-			"name": "Training: Resolve"
+			"name": "Treinamento: Convicção",
+      "description":"Essa melhoria permite que os PJs recebam 2 xp (ao invés de 1) ao treinarem um marcador específico de xp durante a folga, permitindo que eles avancem mais rapidamente."
 		},
 		"Vault 1": {
-			"name": "Vault 1"
+			"name": "Cofre 1",
+      "description":"O seu covil possui um cofre seguro, permitindo que o bando armazene até 8 moedas. O cofre inclui uma parte separada que pode ser usada como uma cela de detenção."
 		},
 		"Vault 2": {
-			"name": "Vault 2"
+			"name": "Cofre 2",
+      "description":"Essa melhoria pode ser realizada novamente, aumentando essa capacidade para 16."
 		},
 		"Workshop": {
-			"name": "Workshop"
+			"name": "Oficina",
+      "description":"O seu covil possui uma oficina equipada com instrumentos para adulteração e alquimia, assim como uma pequena biblioteca de livros, documentos e mapas. Os PJs podem usar esses recursos para progredir em projetos de longo prazo sem deixar a segurança do covil."
 		}
 	}
 }
