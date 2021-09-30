@@ -106,27 +106,27 @@
       "class":"Furtivo" 
 		},
 		"(Sl) A cane-sword": {
-			"name": "(Su) Bengala-espada",
+			"name": "(S) Bengala-espada",
       "description": "Uma lâmina esguia e a sua bainha, disfarçadas como uma bengala de aristocrata. Uma vistoria superficial não é capaz de notar a lâmina oculta.",
       "class":"Suave" 
 		},
 		"(Sl) Fine clothes & jewelry": {
-			"name": "(Su) Roupas e joias superiores",
+			"name": "(S) Roupas e joias superiores",
       "description": "Uma vestimenta de uma qualidade tão excepcional que permite que você se passe por um nobre abastado. Carga 0.<br><br>Se você está carregando esse item como uma muda de roupa para trocar, ela conta como <b>carga 2</b>.",
       "class":"Suave" 
 		},
 		"(Sl) Fine disguise kit": {
-			"name": "(Su) Kit de disfarces superior",
+			"name": "(S) Kit de disfarces superior",
       "description": "Um conjunto de maquiagem teatral equipado com um vasto leque de acessórios e utensílios para mudar a aparência e enganar a vista. Ao usar esse kit, a sua qualidade superior pode aumentar o efeito de ações relacionadas a enganação e disfarces.",
       "class":"Suave" 
 		},
 		"(Sl) Fine loaded dice, trick cards": {
-			"name": "(Su) Dados viciados e cartas marcadas superiores",
+			"name": "(S) Dados viciados e cartas marcadas superiores",
       "description": "Acessórios de jogo sutilmente alterados para favorecer certos resultados. Ao usar esse conjunto, a sua qualidade superior pode aumentar o efeito de ações relacionadas a enganação.",
       "class":"Suave" 
 		},
 		"(Sl) Trance powder": {
-			"name": "(Su) Talco do transe",
+			"name": "(S) Talco do transe",
       "description": "Uma dose da droga popular que induz um estado mental alterado. A vítima desse pó permanece consciente, mas em um estado mental calmo e sugestionável similar à hipnosee.",
       "class":"Suave" 
 		},
