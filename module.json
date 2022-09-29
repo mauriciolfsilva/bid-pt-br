@@ -1,11 +1,21 @@
 {
-  "name":"bid-pt-br",
+  "id":"bid-pt-br",
   "title":"Blades in the Dark - Português (Brasil)",
   "description":"",
-  "version":"0.1.5",
-  "author":"Mestre Digital",
-  "minimumCoreVersion":"0.8.8",
-  "compatibleCoreVersion":"9",
+  
+  "version":"0.2.0",
+  "authors":[
+    {
+      "name":"Mestre Digital",
+      "url":"https://youtube.com/mestredigital"
+    }
+  ],
+  
+  "compatibility":{
+    "minimum":10,
+    "verified":"10"
+  },
+  
   "esmodules": ["babele-register.js"],
   "url":"https://github.com/brunocalado/bid-pt-br",
   "manifest": "https://raw.githubusercontent.com/brunocalado/bid-pt-br/main/module.json",
@@ -29,15 +39,7 @@
       "name": "tabelas",
       "label": "Tabelas",
       "path": "packs/tabelas.db",
-      "entity": "RollTable",
-      "module": "bid-pt-br",
-      "private": false
-    },
-    {
-      "name": "macros",
-      "label": "Macros - BiD - Pt-Br",
-      "path": "packs/macros.db",
-      "entity": "Macro",
+      "type": "RollTable",
       "module": "bid-pt-br",
       "private": false
     },
@@ -45,15 +47,25 @@
       "name": "ajuda-da-traducao",
       "label": "Ajuda da Tradução",
       "path": "packs/ajuda-da-traducao.db",
-      "entity": "JournalEntry",
+      "type": "JournalEntry",
       "module": "bid-pt-br",
       "private": false
     }      
   ],
 
-  "systems": [
-    "blades-in-the-dark"
-  ]
-  
+  "relationships":{
+    "requires":[
+      {
+        "id":"babele",
+        "type":"module",
+        "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+      }
+    ],
+    "systems":[
+      {
+        "id":"blades-in-the-dark"
+      }
+    ]
+  }  
 }
 
