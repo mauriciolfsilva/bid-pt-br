@@ -1,8 +1,8 @@
 {
 	"label": "Cartilhas",
   "mapping": {
-    "description": "data.description",
-    "experience_clues": "data.experience_clues"
+    "description": "system.description",
+    "experience_clues": "system.experience_clues"
   },
   
 	"entries": {

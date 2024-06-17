@@ -1,7 +1,7 @@
 {
 	"label": "Raízes",
 	"mapping": {
-    "description": "data.description"
+    "description": "system.description"
   },
   
 	"entries": {

@@ -3,7 +3,7 @@
   "title":"Blades in the Dark - Português (Brasil)",
   "description":"",
   
-  "version":"0.2.0",
+  "version":"0.2.1",
   "authors":[
     {
       "name":"Mestre Digital",
@@ -12,8 +12,8 @@
   ],
   
   "compatibility":{
-    "minimum":10,
-    "verified":"10"
+    "minimum":12,
+    "verified":"12"
   },
   
   "esmodules": ["babele-register.js"],
